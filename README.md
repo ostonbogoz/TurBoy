@@ -46,34 +46,33 @@ Conseguir quebrar limitações do script .bat, como a criação e aprimoramento 
 </br>
 </br>
 </br>
-<b>[USO]</b>
+<b>[VANTAGENS]</b>
 </br>
 <b>Tentei fazer o mais simples e prático possível, através de um MENU.</b>
 </br>
 <b>Acredito que vai poder ter a total liberdade para fazer tudo o que precisar.</b>
 </br>
 </br>
-1. Baixar somente vídeos.
+<b>1. Taxa de download muito alto [NO MÁXIMO]!</b>
 </br>
-2. Baixar somente legendas.
+2. Baixar somente vídeos.
 </br>
-3. Baixar vídeos e legendas juntas.
+3. Baixar somente legendas.
 </br>
-4. Baixar playlists inteiras.
+4. Baixar vídeos e legendas juntas.
 </br>
-5. Baixar canais inteiros.
+5. Baixar playlists inteiras.
 </br>
-6. Baixar vídeos isolados.
+6. Baixar canais inteiros.
 </br>
-7. Escolher o idioma da legenda.
+7. Baixar vídeos isolados.
 </br>
-8. Escolher a pasta que vai receber os arquivos baixados.
+8. Escolher o idioma da legenda.
 </br>
-9. Pode criar um novo arquivo de lista de URL do YouTube.
+9. Escolher a pasta que vai receber os arquivos baixados.
 </br>
-10. Pode usar a antiga lista para adicionar, acumulando novos URL do YouTube.
+10. Pode criar um novo arquivo de lista de URL do YouTube.
 </br>
-11. Pode deletar o arquivo da antiga lista e criar uma novo arquivo da lista de URL do Youtube automaticamente.
+11. Pode usar a antiga lista para adicionar, acumulando novos URL do YouTube.
 </br>
-</br>
-</br>
+12. Pode deletar o arquivo da antiga lista e criar uma novo arquivo da lista de URL do Youtube automaticamente.
