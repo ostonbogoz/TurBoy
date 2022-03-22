@@ -30,4 +30,4 @@ O porjeto é composto pelos arquivos:
 </br>
 * FFMPeG.eXe (Converte as legendas .ytt para .srt )
 </br>
-* 
+* uRL-youTuBe.TXT (Semi Temporário depende do usuário, é aonde fica armazenado as URL)
