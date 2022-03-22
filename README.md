@@ -21,7 +21,12 @@ A princípio eu criei este script .bat através de uma necessidade minha de cons
 </br>
 Então eu não achei nada parecido que automatiza-se isso para mim na internet, que a princípio era baixar em lote várias legendas em .srt no meu idioma [pt], através de url de canais, playlists e até de um único vídeo do YouTube.
 </br>
-Isso me custou poucas horas de praser codando e buscando soluções em fóruns, eu só sabia praticamente míseros 1% da linguagem script .bat, depois me empolguei com o projeto e inclui baixar vídeos também, adcionar menus, customizações, molhoramentos e muitos testes, isto me custou 2 dias de um aprendizado prazeroso.
+</br>
+<b>
+[EXPERIÊNCIA]
+</b>
+</br>
+De início isso me custou poucas horas de praser codando e buscando soluções em fóruns, eu só sabia praticamente míseros 1% da linguagem script .bat, depois me empolguei com o projeto e inclui baixar vídeos também, adcionar menus, customizações, molhoramentos e muitos testes, que transformo em 2 dias de um aprendizado prazeroso.
 </br>
 Conseguir quebrar limitações da linguagem script .bat, como a criação e aprimoramento do sistema de estruturas de decisão com simulação como estive-se usando junto com os operadores lógicos [AND] e [OR].
 </br>
@@ -30,7 +35,7 @@ Conseguir quebrar limitações da linguagem script .bat, como a criação e apri
 [ARQUIVOS]
 </b>
 </br>
-* TurBoy.bat (Aonde está todo a automatização.)
+* TurBoy.bat (Aonde está todo a automatização)
 </br>
 * yT-DLP.eXe (É usado para acessar, escolher e baixar os conteúdos através das URL do YouTube)
 </br>
