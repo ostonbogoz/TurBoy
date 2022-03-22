@@ -35,10 +35,45 @@ Conseguir quebrar limitações da linguagem script .bat, como a criação e apri
 [ARQUIVOS]
 </b>
 </br>
-* TurBoy.bat (Aonde está todo a automatização)
+* TurBoy.bat (Aonde está toda a automatização)
 </br>
 * yT-DLP.eXe (É usado para acessar, escolher e baixar os conteúdos através das URL do YouTube)
 </br>
 * FFMPeG.eXe (Converte as legendas .ytt para .srt )
 </br>
 * uRL-youTuBe.TXT (Semi Temporário depende do usuário, é aonde armazena e acumula as URL do YouTube)
+</br>
+</br>
+<b>
+[USO]
+</b>
+</br>
+Tentei fazer o mais simples e prático possível, através de um MENU.
+</br>
+Acredito que vai ter a total liberdade para fazer tudo que precisar.
+</br>
+* Baixar somente vídeos.
+</br>
+* Baixar somente legendas.
+</br>
+* Baixar vídeos e legendas juntas.
+</br>
+* Baixar playlists inteiras.
+</br>
+* Baixar canais inteiros.
+</br>
+* Baixar vídeos isolados.
+</br>
+* Escolher o idioma da legenda.
+</br>
+* Escolher a pasta que vai receber os arquivos baixados.
+</br>
+* Pode criar um novo arquivo de lista de URL do YouTube.
+</br>
+* Pode usar a antiga lista acumulando novos URL do YouTube.
+</br>
+* Pode deletar o arquivo da antiga lista e criar uma novo arquivo da lista de URL do Youtube automaticamente.
+</br>
+* Se quiser pode ficar somente acumulando a antiga lista de novos URL do YouTube.
+</br>
+</br>
