@@ -13,6 +13,10 @@ https://drive.google.com/file/d/1O7GOhOEdNzJwLogGOMynxOxrm8UO2g7X
 </br>
 </br>
 </br>
+<img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy-00.png">
+</br>
+</br>
+</br>
 <b>[MOTIVO]</b>
 </br>
 A princípio eu criei este script .bat através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma [pt] no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai de playlists a canais inteiros! 
