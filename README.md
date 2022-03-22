@@ -2,6 +2,8 @@
 <h2>Baixe Vídeos e Legendas[.srt] De Canais e PlayLists Do YouTube</h2>
 </br>
 </br>
+<img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy-00.png">
+</br>
 Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
 </br>
 Então estou oferecendo baixar o projeto por completo no repositório alternativo.
@@ -10,10 +12,6 @@ Então estou oferecendo baixar o projeto por completo no repositório alternativ
 <b>Baixe a versão completa no link abaixo:</b>
 </br>
 https://drive.google.com/file/d/1O7GOhOEdNzJwLogGOMynxOxrm8UO2g7X
-</br>
-</br>
-</br>
-<img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy-00.png">
 </br>
 </br>
 </br>
