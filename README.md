@@ -26,7 +26,7 @@ Então eu não achei nada parecido que automatiza-se isso para mim na internet, 
 [EXPERIÊNCIA]
 </b>
 </br>
-De início isso me custou poucas horas de praser codando e buscando soluções em fóruns, eu só sabia praticamente míseros 1% da linguagem script .bat, depois me empolguei com o projeto e inclui baixar vídeos também, adcionar menus, customizações, molhoramentos e muitos testes, que transformo em 2 dias de um aprendizado prazeroso.
+De início isso me custou poucas horas de prazer codando e buscando soluções em fóruns, eu só sabia praticamente míseros 1% da linguagem script .bat, depois me empolguei com o projeto e inclui baixar vídeos também, adcionar menus, customizações, molhoramentos e muitos testes, que transformo em 2 dias de um aprendizado prazeroso.
 </br>
 Conseguir quebrar limitações da linguagem script .bat, como a criação e aprimoramento do sistema de estruturas de decisão com simulação como estive-se usando junto com os operadores lógicos [AND] e [OR].
 </br>
