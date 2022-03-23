@@ -1,5 +1,5 @@
 # TurBoy
-<h1>Baixe Vídeos e Legendas[.srt] De Canais e PlayLists Do YouTube</h1>
+<h1>Baixe Vídeos e Legendas(.srt) De Canais e PlayLists Do YouTube</h1>
 </br>
 </br>
 <img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy-00.png">
@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1O7GOhOEdNzJwLogGOMynxOxrm8UO2g7X
 </br>
 </br>
 <h2>[MOTIVO]</h2>
-A princípio eu criei este script .bat através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma [pt] no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! 
+A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma [pt] no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! 
 </br>
 </br>
 Então eu não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows, achei somente material bem escaço para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
@@ -24,13 +24,13 @@ Então eu não achei nada parecido que automatiza-se isso para mim na internet p
 </br>
 </br>
 <h2>[EXPERIÊNCIA]</h2>
-De início me custou poucas horas de puro prazer "codando", com desafios e buscando soluções em fóruns, eu só sabia praticamente míseros 1% do script .bat, depois me empolguei com o projeto e decidi incluir baixar vídeos, adcionar menus, customizações, aprimoramentos e muitos testes, que transformou em 2 dias de um prazeroso aprendizado.
+De início me custou poucas horas de puro prazer "codando", com desafios e buscando soluções em fóruns, eu só sabia praticamente míseros 1% do script (.bat), depois me empolguei com o projeto e decidi incluir baixar vídeos, adcionar menus, customizações, aprimoramentos e muitos testes, que transformou em 2 dias de um prazeroso aprendizado.
 </br>
 </br>
-Consegui quebrar limitações do script .bat, como a criação e aprimoramento do sistema de estruturas de decisão com simulação como estive-se usando junto com os operadores lógicos (AND) e (OR).
+Consegui quebrar limitações do script (.bat), como a criação e aprimoramento do sistema de estruturas de decisão com simulação como estive-se usando junto com os operadores lógicos (AND) e (OR).
 </br>
 </br>
-Acredito que a comunidade encontrará neste material rico, inovador e simples do script .bat do que precisa, é um projeto totalmente Open Source.
+Acredito que a comunidade encontrará neste material rico, inovador e simples do script (.bat) do que precisa, é um projeto totalmente Open Source.
 </br>
 </br>
 </br>
