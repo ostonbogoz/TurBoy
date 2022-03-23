@@ -1,5 +1,5 @@
 # TurBoy
-<h2>Baixe Vídeos e Legendas[.srt] De Canais e PlayLists Do YouTube</h2>
+<h1>Baixe Vídeos e Legendas[.srt] De Canais e PlayLists Do YouTube</h1>
 </br>
 </br>
 <img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy-00.png">
@@ -15,32 +15,26 @@ https://drive.google.com/file/d/1O7GOhOEdNzJwLogGOMynxOxrm8UO2g7X
 </br>
 </br>
 </br>
-<b>[MOTIVO]</b>
-</br>
-</br>
+<h2>[MOTIVO]</h2>
 A princípio eu criei este script .bat através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma [pt] no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! 
 </br>
 </br>
-Então eu não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows, achei somente material bem escaço para LiNuX, que é baixar legendas [.srt] no meu idioma [pt] em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
+Então eu não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows, achei somente material bem escaço para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
 </br>
 </br>
 </br>
-<b>[EXPERIÊNCIA]</b>
-</br>
-</br>
+<h2>[EXPERIÊNCIA]</h2>
 De início me custou poucas horas de puro prazer "codando", com desafios e buscando soluções em fóruns, eu só sabia praticamente míseros 1% do script .bat, depois me empolguei com o projeto e decidi incluir baixar vídeos, adcionar menus, customizações, aprimoramentos e muitos testes, que transformou em 2 dias de um prazeroso aprendizado.
 </br>
 </br>
-Consegui quebrar limitações do script .bat, como a criação e aprimoramento do sistema de estruturas de decisão com simulação como estive-se usando junto com os operadores lógicos [AND] e [OR].
+Consegui quebrar limitações do script .bat, como a criação e aprimoramento do sistema de estruturas de decisão com simulação como estive-se usando junto com os operadores lógicos (AND) e (OR).
 </br>
 </br>
 Acredito que a comunidade encontrará neste material rico, inovador e simples do script .bat do que precisa, é um projeto totalmente Open Source.
 </br>
 </br>
 </br>
-<b>[VANTAGENS]</b>
-</br>
-</br>
+<h2>[VANTAGENS]</h2>
 1. Taxa De Download Muito Alta, (NO MÁXIMO)!
 </br>
 </br>
@@ -56,7 +50,7 @@ Priorizando Economia De Espaço De Armazenamento Sempre Com a Melhor Qualidade D
 Acredito Que Vai Poder Ter a Total Liberdade Para Fazer Tudo o Que Precisar.
 </br>
 </br>
-4. [OPÇÕES NO MENU] 
+4. OPÇÕES NO MENU
 </br>
 De Baixar Somente Vídeos, 
 </br>
@@ -78,7 +72,7 @@ Baixar Vídeos Isolados.
 7. Escolher a Pasta Que Vai Receber os Arquivos Baixados.
 </br>
 </br>
-8. [LISTA URL YOUTUBE]
+8. LISTA URL YOUTUBE
 </br>
 Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo Da lista De URL Do Youtube Automaticamente, 
 </br>
@@ -89,9 +83,7 @@ Também Pode Usar a Antiga Lista Somente Como Acumulador De URL do YouTube Autom
 </br>
 </br>
 </br>
-<b>[ARQUIVOS]</b>
-</br>
-</br>
+<h2>[ARQUIVOS]</h2>
 1. TurBoy.bat (Aonde Está Toda a Automatização).
 </br>
 </br>
