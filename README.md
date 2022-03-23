@@ -67,20 +67,20 @@ De Baixar Canais Inteiros e
 Baixar Vídeos Isolados.
 </br>
 </br>
-Escolher o Idioma Da Legenda.
+6. Escolher o Idioma Da Legenda.
 </br>
 </br>
-Escolher a Pasta Que Vai Receber os Arquivos Baixados.
+7. Escolher a Pasta Que Vai Receber os Arquivos Baixados.
 </br>
 </br>
-6. [LISTA URL YOUTUBE]
+8. [LISTA URL YOUTUBE]
 </br>
 Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo Da lista De URL Do Youtube Automaticamente, 
 </br>
 Também Pode Usar a Antiga Lista Somente Como Acumulador De URL do YouTube Automaticamente.
 </br>
 </br>
-7. Compatível com todos os S.O. Windows 32Bits/64Bits.
+9. Compatível com todos os S.O. Windows 32Bits/64Bits.
 </br>
 </br>
 </br>
