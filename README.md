@@ -83,7 +83,13 @@ Também Pode Usar a Antiga Lista Somente Como Acumulador De URL do YouTube Autom
 </br>
 </br>
 </br>
-<h2>[ARQUIVOS]</h2>
+<h2>[DICAS]</h2>
+1. Use Como Player De Vídeo Universal o VLC (Open Source).
+https://www.videolan.org/vlc/
+</br>
+</br>
+</br>
+<h2>[ARQUIVOS OPEN SOURCES]</h2>
 1. TurBoy.bat (Aonde Está Toda a Automatização).
 </br>
 </br>
