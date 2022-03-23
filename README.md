@@ -38,9 +38,9 @@ Consegui quebrar limitações do script .bat, como a criação e aprimoramento d
 </br>
 1. TurBoy.bat (Aonde está toda a automatização).
 </br>
-2. yT-DLP.eXe (É usado para acessar, escolher e baixar os conteúdos através das URL do YouTube).
+2. yT-DLP.eXe (É usado para acessar, escolher e baixar os conteúdos através das URL do YouTube). https://github.com/yt-dlp/yt-dlp
 </br>
-3. FFMPeG.eXe (Converte as legendas .ytt para .srt ).
+3. FFMPeG.eXe (Converte as legendas .ytt para .srt ). https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 </br>
 4. uRL-youTuBe.TXT (Semi Temporário depende do usuário, é aonde armazena e acumula as URL do YouTube).
 </br>
