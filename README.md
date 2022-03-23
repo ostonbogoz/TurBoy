@@ -96,8 +96,6 @@ De Baixar Somente Legendas e De Baixar Vídeos e Legendas Juntas.
 </br>
 5.
 </br>
-[OPÇÕES NO MENU] 
-</br>
 De Baixar PlayLists Inteiras, 
 </br>
 De Baixar Canais Inteiros e Baixar Vídeos Isolados.
@@ -113,9 +111,9 @@ Escolher a Pasta Que Vai Receber os Arquivos Baixados.
 </br>
 [ARQUIVO DE LISTA URL YOUTUBE] 
 </br>
-Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo da lista de URL do Youtube Automaticamente, 
+Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo Da lista De URL Do Youtube Automaticamente, 
 </br>
-Pode Usar a Antiga Lista Para Adicionar Acumulando Novos URL do YouTube.
+Pode Usar a Antiga Lista Somente Para Acumular Adicionando Novos URL do YouTube.
 </br>
 </br>
 7.
