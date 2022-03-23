@@ -36,58 +36,42 @@ Consegui quebrar limitações do script .bat, como a criação e aprimoramento d
 <b>[ARQUIVOS]</b>
 </br>
 </br>
-1. 
-</br>
-TurBoy.bat (Aonde Está Toda a Automatização).
+1. TurBoy.bat (Aonde Está Toda a Automatização).
 </br>
 </br>
-2. 
-</br>
-yT-DLP.eXe (É Usado Para Acessar, Escolher e Baixar Os Conteúdos Através Das URL Do YouTube). 
+2. yT-DLP.eXe (É Usado Para Acessar, Escolher e Baixar Os Conteúdos Através Das URL Do YouTube). 
 </br>
 https://github.com/yt-dlp/yt-dlp
 </br>
 </br>
-3. 
-</br>
-FFMPeG.eXe (Converte As Legendas .ytt Para .srt ). 
+3. FFMPeG.eXe (Converte As Legendas .ytt Para .srt ). 
 </br>
 https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 </br>
 </br>
-4. 
-</br>
-uRL-youTuBe.TXT (Semi Temporário Depende Do Usuário, é Aonde Armazena e Acumula As URL Do YouTube).
+4. uRL-youTuBe.TXT (Semi Temporário Depende Do Usuário, é Aonde Armazena e Acumula As URL Do YouTube).
 </br>
 </br>
 </br>
 <b>[VANTAGENS]</b>
 </br>
 </br>
-1.
-</br>
-Taxa De Download Muito Alto, (NO MÁXIMO)!
+1. Taxa De Download Muito Alto, (NO MÁXIMO)!
 </br>
 </br>
-2.
-</br>
-Excelente Para Quem Gosta De Baixar Vídeo Aulas De PlayLists e De Canais Completos, 
+2. Excelente Para Quem Gosta De Baixar Vídeo Aulas De PlayLists e De Canais Completos, 
 </br>
 Priorizando Economia De Espaço De Armazenamento Sempre Com a Melhor Qualidade Do Vídeo.
 </br>
 (PADRÃO yT-DLP.eXe - 720p Melhor Qualidade).
 </br>
 </br>
-3.
-</br>
-Tentei Fazer o Mais Simples e Prático Possível, Através De Um MENU, 
+3. Tentei Fazer o Mais Simples e Prático Possível, Através De Um MENU, 
 </br>
 Acredito Que Vai Poder Ter a Total Liberdade Para Fazer Tudo o Que Precisar.
 </br>
 </br>
-4.
-</br>
-[OPÇÕES NO MENU] 
+4. [OPÇÕES NO MENU] 
 </br>
 De Baixar Somente Vídeos, 
 </br>
@@ -96,9 +80,7 @@ De Baixar Somente Legendas e
 De Baixar Vídeos e Legendas Juntas.
 </br>
 </br>
-5.
-</br>
-De Baixar PlayLists Inteiras, 
+5. De Baixar PlayLists Inteiras, 
 </br>
 De Baixar Canais Inteiros e Baixar Vídeos Isolados.
 </br>
@@ -109,15 +91,11 @@ Escolher o Idioma Da Legenda.
 Escolher a Pasta Que Vai Receber os Arquivos Baixados.
 </br>
 </br>
-6.
-</br>
-[ARQUIVO DE LISTA URL YOUTUBE] 
+6. [ARQUIVO DE LISTA URL YOUTUBE] 
 </br>
 Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo Da lista De URL Do Youtube Automaticamente, 
 </br>
 Pode Usar a Antiga Lista Somente Para Acumular Adicionando Novos URL do YouTube.
 </br>
 </br>
-7.
-</br>
-Compatível com todos os S.O. Windows 32Bits/64Bits.
+7. Compatível com todos os S.O. Windows 32Bits/64Bits.
