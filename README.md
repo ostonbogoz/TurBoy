@@ -36,46 +36,59 @@ Consegui quebrar limitações do script .bat, como a criação e aprimoramento d
 <b>[ARQUIVOS]</b>
 </br>
 </br>
-1. TurBoy.bat (Aonde está toda a automatização).
+1. TurBoy.bat (Aonde Está Toda a Automatização).
 </br>
 </br>
-2. yT-DLP.eXe (É usado para acessar, escolher e baixar os conteúdos através das URL do YouTube). 
+2. yT-DLP.eXe (É Usado Para Acessar, Escolher e Baixar Os Conteúdos Através Das URL Do YouTube). 
 </br>
 https://github.com/yt-dlp/yt-dlp
 </br>
 </br>
-3. FFMPeG.eXe (Converte as legendas .ytt para .srt ). 
+3. FFMPeG.eXe (Converte As Legendas .ytt Para .srt ). 
 </br>
 https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 </br>
 </br>
-4. uRL-youTuBe.TXT (Semi Temporário depende do usuário, é aonde armazena e acumula as URL do YouTube).
+4. uRL-youTuBe.TXT (Semi Temporário Depende Do Usuário, é Aonde Armazena e Acumula As URL Do YouTube).
 </br>
 </br>
 </br>
 <b>[VANTAGENS]</b>
 </br>
 </br>
-Taxa de download muito alto [NO MÁXIMO]!
+1.
+</br>
+Taxa De Download Muito Alto [NO MÁXIMO]!
 </br>
 </br>
-Excelente para quem gosta de baixar vídeo aulas de playlists e de canais completos, 
+2.
 </br>
-priorizando economia de espaço de armazenamento sempre com a melhor qualidade do vídeo.
+Excelente Para Quem Gosta De Baixar Vídeo Aulas De PlayLists e De Canais Completos, 
 </br>
-[PADRÃO yT-DLP.eXe - 720p Melhor Qualidade].
+Priorizando Economia De Espaço De Armazenamento Sempre Com a Melhor Qualidade Do Vídeo.
 </br>
-</br>
-Tentei fazer o mais simples e prático possível, através de um MENU.
-</br>
-</br>
-Acredito que vai poder ter a total liberdade para fazer tudo o que precisar.
+(PADRÃO yT-DLP.eXe - 720p Melhor Qualidade).
 </br>
 </br>
-[OPÇÕES NO MENU] De Baixar Somente Vídeos, De Baixar Somente Legendas e De Baixar Vídeos e Legendas Juntas.
+3.
+</br>
+Tentei Fazer o Mais Simples e Prático Possível, Através De Um MENU, 
+</br>
+Acredito Que Vai Poder Ter a Total Liberdade Para Fazer Tudo o Que Precisar.
 </br>
 </br>
-[OPÇÕES NO MENU] De Baixar PlayLists Inteiras, De Baixar Canais Inteiros e Baixar Vídeos Isolados.
+[OPÇÕES NO MENU] 
+</br>
+De Baixar Somente Vídeos, 
+</br>
+De Baixar Somente Legendas e De Baixar Vídeos e Legendas Juntas.
+</br>
+</br>
+[OPÇÕES NO MENU] 
+</br>
+De Baixar PlayLists Inteiras, 
+</br>
+De Baixar Canais Inteiros e Baixar Vídeos Isolados.
 </br>
 </br>
 Escolher o Idioma Da Legenda.
@@ -84,7 +97,11 @@ Escolher o Idioma Da Legenda.
 Escolher a Pasta Que Vai Receber os Arquivos Baixados.
 </br>
 </br>
-[ARQUIVO DE LISTA URL YOUTUBE] Pode criar um novo arquivo de lista de URL do YouTube, Pode usar a antiga lista para adicionar, acumulando novos URL do YouTube, Pode deletar o arquivo da antiga lista e criar uma novo arquivo da lista de URL do Youtube automaticamente.
+[ARQUIVO DE LISTA URL YOUTUBE] 
+</br>
+Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo da lista de URL do Youtube Automaticamente, 
+</br>
+Pode Usar a Antiga Lista Para Adicionar Acumulando Novos URL do YouTube.
 </br>
 </br>
 Compatível com todos os S.O. Windows 32Bits/64Bits.
