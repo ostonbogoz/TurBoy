@@ -36,7 +36,7 @@ Consegui quebrar limitações do script .bat, como a criação e aprimoramento d
 <b>[VANTAGENS]</b>
 </br>
 </br>
-1. Taxa De Download Muito Alto, (NO MÁXIMO)!
+1. Taxa De Download Muito Alta, (NO MÁXIMO)!
 </br>
 </br>
 2. Excelente Para Quem Gosta De Baixar Vídeo Aulas De PlayLists e De Canais Completos, 
