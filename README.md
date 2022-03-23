@@ -45,12 +45,18 @@ Priorizando Economia De Espaço De Armazenamento Sempre Com a Melhor Qualidade D
 (PADRÃO yT-DLP.eXe - 720p Melhor Qualidade).
 </br>
 </br>
-3. Tentei Fazer o Mais Simples e Prático Possível, Através De Um MENU, 
+3. É Portable (Não precisa instalar).
+</br>
+</br>
+4. Compatível com todos os S.O. Windows 32Bits/64Bits.
+</br>
+</br>
+5. Tentei Fazer o Mais Simples e Prático Possível, Através De Um MENU, 
 </br>
 Acredito Que Vai Poder Ter a Total Liberdade Para Fazer Tudo o Que Precisar.
 </br>
 </br>
-4. OPÇÕES NO MENU
+6. OPÇÕES NO MENU
 </br>
 De Baixar Somente Vídeos, 
 </br>
@@ -59,27 +65,24 @@ De Baixar Somente Legendas e
 De Baixar Vídeos e Legendas Juntas.
 </br>
 </br>
-5. De Baixar PlayLists Inteiras, 
+7. De Baixar PlayLists Inteiras, 
 </br>
 De Baixar Canais Inteiros e 
 </br>
 Baixar Vídeos Isolados.
 </br>
 </br>
-6. Escolher o Idioma Da Legenda.
+8. Escolher o Idioma Da Legenda.
 </br>
 </br>
-7. Escolher a Pasta Que Vai Receber os Arquivos Baixados.
+9. Escolher a Pasta Que Vai Receber os Arquivos Baixados.
 </br>
 </br>
-8. LISTA URL YOUTUBE
+10. LISTA URL YOUTUBE
 </br>
 Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo Da lista De URL Do Youtube Automaticamente, 
 </br>
 Também Pode Usar a Antiga Lista Somente Como Acumulador De URL do YouTube Automaticamente.
-</br>
-</br>
-9. Compatível com todos os S.O. Windows 32Bits/64Bits.
 </br>
 </br>
 </br>
