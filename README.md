@@ -33,26 +33,6 @@ Consegui quebrar limitações do script .bat, como a criação e aprimoramento d
 </br>
 </br>
 </br>
-<b>[ARQUIVOS]</b>
-</br>
-</br>
-1. TurBoy.bat (Aonde Está Toda a Automatização).
-</br>
-</br>
-2. yT-DLP.eXe (É Usado Para Acessar, Escolher e Baixar Os Conteúdos Através Das URL Do YouTube). 
-</br>
-https://github.com/yt-dlp/yt-dlp
-</br>
-</br>
-3. FFMPeG.eXe (Converte As Legendas .ytt Para .srt ). 
-</br>
-https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
-</br>
-</br>
-4. uRL-youTuBe.TXT (Semi Temporário Depende Do Usuário, é Aonde Armazena e Acumula As URL Do YouTube).
-</br>
-</br>
-</br>
 <b>[VANTAGENS]</b>
 </br>
 </br>
@@ -93,7 +73,7 @@ Escolher o Idioma Da Legenda.
 Escolher a Pasta Que Vai Receber os Arquivos Baixados.
 </br>
 </br>
-6. [ARQUIVO DE LISTA URL YOUTUBE] 
+6. [LISTA URL YOUTUBE]
 </br>
 Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo Da lista De URL Do Youtube Automaticamente, 
 </br>
@@ -101,3 +81,23 @@ Também Pode Usar a Antiga Lista Somente Como Acumulador De URL do YouTube Autom
 </br>
 </br>
 7. Compatível com todos os S.O. Windows 32Bits/64Bits.
+</br>
+</br>
+</br>
+<b>[ARQUIVOS]</b>
+</br>
+</br>
+1. TurBoy.bat (Aonde Está Toda a Automatização).
+</br>
+</br>
+2. yT-DLP.eXe (É Usado Para Acessar, Escolher e Baixar Os Conteúdos Através Das URL Do YouTube). 
+</br>
+https://github.com/yt-dlp/yt-dlp
+</br>
+</br>
+3. FFMPeG.eXe (Converte As Legendas .ytt Para .srt ). 
+</br>
+https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
+</br>
+</br>
+4. uRL-youTuBe.TXT (Semi Temporário Depende Do Usuário, é Aonde Armazena e Acumula As URL Do YouTube).
