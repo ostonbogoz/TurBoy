@@ -82,7 +82,9 @@ De Baixar Vídeos e Legendas Juntas.
 </br>
 5. De Baixar PlayLists Inteiras, 
 </br>
-De Baixar Canais Inteiros e Baixar Vídeos Isolados.
+De Baixar Canais Inteiros e 
+</br>
+Baixar Vídeos Isolados.
 </br>
 </br>
 Escolher o Idioma Da Legenda.
@@ -95,7 +97,7 @@ Escolher a Pasta Que Vai Receber os Arquivos Baixados.
 </br>
 Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo Da lista De URL Do Youtube Automaticamente, 
 </br>
-Pode Usar a Antiga Lista Somente Para Acumular Adicionando Novos URL do YouTube.
+Também Pode Usar a Antiga Lista Somente Como Acumulador De URL do YouTube Automaticamente.
 </br>
 </br>
 7. Compatível com todos os S.O. Windows 32Bits/64Bits.
