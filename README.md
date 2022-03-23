@@ -56,41 +56,35 @@ https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 <b>[VANTAGENS]</b>
 </br>
 </br>
-<b>Tentei fazer o mais simples e prático possível, através de um MENU.
-</br>
-</br>
-Acredito que vai poder ter a total liberdade para fazer tudo o que precisar.
+Taxa de download muito alto [NO MÁXIMO]!
 </br>
 </br>
 Excelente para quem gosta de baixar vídeo aulas de playlists e de canais completos, 
 </br>
 priorizando economia de espaço de armazenamento sempre com a melhor qualidade do vídeo.
 </br>
-[PADRÃO yT-DLP.eXe - 720p Melhor Qualidade].</b>
+[PADRÃO yT-DLP.eXe - 720p Melhor Qualidade].
 </br>
 </br>
-<b>1. Taxa de download muito alto [NO MÁXIMO]!</b>
+Tentei fazer o mais simples e prático possível, através de um MENU.
 </br>
-2. Baixar somente vídeos.
 </br>
-3. Baixar somente legendas.
+Acredito que vai poder ter a total liberdade para fazer tudo o que precisar.
 </br>
-4. Baixar vídeos e legendas juntas.
 </br>
-5. Baixar playlists inteiras.
+[OPÇÕES NO MENU] De Baixar Somente Vídeos, De Baixar Somente Legendas e De Baixar Vídeos e Legendas Juntas.
 </br>
-6. Baixar canais inteiros.
 </br>
-7. Baixar vídeos isolados.
+[OPÇÕES NO MENU] De Baixar PlayLists Inteiras, De Baixar Canais Inteiros e Baixar Vídeos Isolados.
 </br>
-8. Escolher o idioma da legenda.
 </br>
-9. Escolher a pasta que vai receber os arquivos baixados.
+Escolher o Idioma Da Legenda.
 </br>
-10. Pode criar um novo arquivo de lista de URL do YouTube.
 </br>
-11. Pode usar a antiga lista para adicionar, acumulando novos URL do YouTube.
+Escolher a Pasta Que Vai Receber os Arquivos Baixados.
 </br>
-12. Pode deletar o arquivo da antiga lista e criar uma novo arquivo da lista de URL do Youtube automaticamente.
 </br>
-13. Compatível com todos os S.O. Windows 32Bits/64Bits.
+[ARQUIVO DE LISTA URL YOUTUBE] Pode criar um novo arquivo de lista de URL do YouTube, Pode usar a antiga lista para adicionar, acumulando novos URL do YouTube, Pode deletar o arquivo da antiga lista e criar uma novo arquivo da lista de URL do Youtube automaticamente.
+</br>
+</br>
+Compatível com todos os S.O. Windows 32Bits/64Bits.
