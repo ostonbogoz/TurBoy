@@ -45,10 +45,10 @@ Priorizando Economia De Espaço De Armazenamento Sempre Com a Melhor Qualidade D
 (PADRÃO yT-DLP.eXe - 720p Melhor Qualidade).
 </br>
 </br>
-3. É Portable (Não precisa instalar).
+3. É Portable (Não Precisa Instalar).
 </br>
 </br>
-4. Compatível com todos os S.O. Windows 32Bits/64Bits.
+4. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
 </br>
 </br>
 5. Tentei Fazer o Mais Simples e Prático Possível, Através De Um MENU, 
