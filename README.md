@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1O7GOhOEdNzJwLogGOMynxOxrm8UO2g7X
 A princípio eu criei este script .bat através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma [pt] no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai de playlists a canais inteiros! 
 </br>
 </br>
-Então eu não achei nada parecido que automatiza-se isso para mim na internet para o Sistema Operacional Windows, achei somente material bem escaço para LiNuX, que é baixar legendas [.srt] no meu idioma [pt] em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
+Então eu não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows, achei somente material bem escaço para LiNuX, que é baixar legendas [.srt] no meu idioma [pt] em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
 </br>
 </br>
 </br>
