@@ -91,7 +91,9 @@ Acredito Que Vai Poder Ter a Total Liberdade Para Fazer Tudo o Que Precisar.
 </br>
 De Baixar Somente Vídeos, 
 </br>
-De Baixar Somente Legendas e De Baixar Vídeos e Legendas Juntas.
+De Baixar Somente Legendas e 
+</br>
+De Baixar Vídeos e Legendas Juntas.
 </br>
 </br>
 5.
