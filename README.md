@@ -85,6 +85,7 @@ Também Pode Usar a Antiga Lista Somente Como Acumulador De URL do YouTube Autom
 </br>
 <h2>[DICAS]</h2>
 1. Use Como Player De Vídeo Universal o VLC (Open Source).
+</br>
 https://www.videolan.org/vlc/
 </br>
 </br>
