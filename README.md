@@ -36,20 +36,28 @@ Consegui quebrar limitações do script .bat, como a criação e aprimoramento d
 <b>[ARQUIVOS]</b>
 </br>
 </br>
-1. TurBoy.bat (Aonde Está Toda a Automatização).
+1. 
+</br>
+TurBoy.bat (Aonde Está Toda a Automatização).
 </br>
 </br>
-2. yT-DLP.eXe (É Usado Para Acessar, Escolher e Baixar Os Conteúdos Através Das URL Do YouTube). 
+2. 
+</br>
+yT-DLP.eXe (É Usado Para Acessar, Escolher e Baixar Os Conteúdos Através Das URL Do YouTube). 
 </br>
 https://github.com/yt-dlp/yt-dlp
 </br>
 </br>
-3. FFMPeG.eXe (Converte As Legendas .ytt Para .srt ). 
+3. 
+</br>
+FFMPeG.eXe (Converte As Legendas .ytt Para .srt ). 
 </br>
 https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 </br>
 </br>
-4. uRL-youTuBe.TXT (Semi Temporário Depende Do Usuário, é Aonde Armazena e Acumula As URL Do YouTube).
+4. 
+</br>
+uRL-youTuBe.TXT (Semi Temporário Depende Do Usuário, é Aonde Armazena e Acumula As URL Do YouTube).
 </br>
 </br>
 </br>
@@ -58,7 +66,7 @@ https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 </br>
 1.
 </br>
-Taxa De Download Muito Alto [NO MÁXIMO]!
+Taxa De Download Muito Alto, (NO MÁXIMO)!
 </br>
 </br>
 2.
@@ -77,12 +85,16 @@ Tentei Fazer o Mais Simples e Prático Possível, Através De Um MENU,
 Acredito Que Vai Poder Ter a Total Liberdade Para Fazer Tudo o Que Precisar.
 </br>
 </br>
+4.
+</br>
 [OPÇÕES NO MENU] 
 </br>
 De Baixar Somente Vídeos, 
 </br>
 De Baixar Somente Legendas e De Baixar Vídeos e Legendas Juntas.
 </br>
+</br>
+5.
 </br>
 [OPÇÕES NO MENU] 
 </br>
@@ -97,11 +109,15 @@ Escolher o Idioma Da Legenda.
 Escolher a Pasta Que Vai Receber os Arquivos Baixados.
 </br>
 </br>
+6.
+</br>
 [ARQUIVO DE LISTA URL YOUTUBE] 
 </br>
 Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo da lista de URL do Youtube Automaticamente, 
 </br>
 Pode Usar a Antiga Lista Para Adicionar Acumulando Novos URL do YouTube.
 </br>
+</br>
+7.
 </br>
 Compatível com todos os S.O. Windows 32Bits/64Bits.
