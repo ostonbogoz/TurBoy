@@ -11,7 +11,7 @@ Então estou oferecendo baixar o projeto completo(funcional) no repositório alt
 </br>
 <b>Baixe a versão completa no link abaixo:</b>
 </br>
-<a href="https://drive.google.com/file/d/1O7GOhOEdNzJwLogGOMynxOxrm8UO2g7X" target="_blank">[Download GooGle Drive (TurBoy.7z)]</a>
+<a href="https://drive.google.com/file/d/1O7GOhOEdNzJwLogGOMynxOxrm8UO2g7X">[Download GooGle Drive (TurBoy.7z)]</a>
 </br>
 </br>
 </br>
