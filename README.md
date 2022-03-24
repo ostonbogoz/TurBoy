@@ -40,7 +40,7 @@ Acredito que a comunidade encontrará neste material rico, inovador e simples do
 </br>
 2. Excelente Para Quem Gosta De Baixar Vídeo Aulas De PlayLists e De Canais Completos, 
 </br>
-Priorizando Economia De Espaço De Armazenamento ao Mesmo Tempo Com Uma Excelente Qualidade Do Vídeo.
+Priorizando a Qualidade Do Vídeo Mas Com Economia De Espaço De Armazenamento.
 </br>
 </br>
 3. Baixar Videos Para WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo Os Requisitos Do Aplicativo.
@@ -49,21 +49,21 @@ Priorizando Economia De Espaço De Armazenamento ao Mesmo Tempo Com Uma Excelent
 4. Baixar Vídeos Da Melhor Qualidade Disponível.
 </br>
 </br>
-5. Na Hora Do Download Cria Uma Estruturas De Pastas Organizadas e Automatizadas, Canais, PlaysLists e Vídeos Idependentes.
+5. Na Hora Do Download Automatiza Criando Uma Estruturas De Pastas Organizadas Para, Canais, PlaysLists e Vídeos Idependentes.
 </br>
 </br>
-7. Portable (Não Precisa Instalar).
+6. Portable (Não Precisa Instalar).
 </br>
 </br>
-8. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
+7. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
 </br>
 </br>
-9. Tentei Fazer o Mais Simples e Prático Possível, Através De Um MENU, 
+8. Tentei Fazer o Mais Simples e Prático Possível, Através De Um MENU, 
 </br>
 Acredito Que Vai Poder Ter a Total Liberdade Para Fazer Tudo o Que Precisar.
 </br>
 </br>
-10. OPÇÕES NO MENU
+9. OPÇÕES NO MENU
 </br>
 De Baixar Somente Vídeos, 
 </br>
@@ -72,20 +72,20 @@ De Baixar Somente Legendas e
 De Baixar Vídeos e Legendas Juntas.
 </br>
 </br>
-11. De Baixar PlayLists Inteiras, 
+10. De Baixar PlayLists Inteiras, 
 </br>
 De Baixar Canais Inteiros e 
 </br>
 Baixar Vídeos Isolados.
 </br>
 </br>
-12. Escolher o Idioma Da Legenda.
+11. Escolher o Idioma Da Legenda.
 </br>
 </br>
-13. Escolher a Pasta Que Vai Receber os Arquivos Baixados.
+12. Escolher a Pasta Que Vai Receber os Arquivos Baixados.
 </br>
 </br>
-14. LISTA URL YOUTUBE
+13. LISTA URL YOUTUBE
 </br>
 Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo Da lista De URL Do Youtube Automaticamente, 
 </br>
