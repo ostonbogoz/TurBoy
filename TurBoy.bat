@@ -29,8 +29,8 @@ REM - MENU 01.
 :arquivoExiste
 echo. 
 echo.ESCOLHA UMA DAS OPCOES:
-echo.[1] CoNTiNuaR CoM aNTiGa LiSTa De uRL De CaNaiS, ou De PLayLiST, ou De ViDeoS.
-echo.[2] CRiaR uMa NoVa LiSTa De uRL De CaNaiS, ou De PLayLiST, ou De ViDeoS.
+echo.[1] CoNTiNuaR CoM a LiSTa eXiSTeNTe DaS uRL.
+echo.[2] CRiaR uMa NoVa !SoBreSCReVeNDo a LiSTa eXiSTeNTe! DaS uRL.
 echo. 
 
 set /p "primeiroMenuOpcao=OPCAO: "
@@ -45,9 +45,9 @@ REM - ACRESCENTANDO MAIS URL A ANTIGA OU NOVA LISTA.
 :arquivoNaoExiste
 :adicionarMais
 echo. 
-set /p "urlplaylist=CoLe a uRL Do CaNaL, ou Da PLayLiST, ou De ViDeo AQui : "
+set /p "urlplaylist=uRL Do CaNaL, ou Da PLayLiST, ou De ViDeo AQui : "
 echo. 
-yT-DLP.eXe --get-id %urlplaylist% >> uRL-youTuBe.TXT
+echo %urlplaylist% >> uRL-youTuBe.TXT
 :querAdicionarMais
 echo. 
 set /p "Pergunta=ACReSCeNTaR MaiS uRL? [s]im / [n]ao : "
@@ -57,7 +57,7 @@ goto :adicionarMais
 
 REM - MENU 02.
 echo. 
-echo.ESCOLHA UMA DAS OPCOES:
+echo.OPCOES DE DOWNLOAD:
 echo.[1] BaiXaR SoMeNTe ViDeo.
 echo.[2] BaiXaR SoMeNTe LeGeNDa.
 echo.[3] BaiXaR ViDeo e LeGeNDa.
@@ -96,18 +96,33 @@ REM - ESCOLHENDO IDIOMAS.
 echo. 
 echo.iDioMa DaS LeGeNDaS
 echo. 
-set /p "idioma=DiGiTe a [TaG] Do Seu iDioMa eM [minusculo]: [pt] ou [en] ou [uk] ou [fr] ou ... : "
+set /p "idioma=[TaG] Do iDioMa: [pt] ou [en] ou [uk] ou [fr] ou ... : "
 echo. 
 
-REM - CRIANDO PASTA DO DOWNLOAD.
 :baixarVideo
-echo. 
-echo.CRiaNDo PaSTa
-echo. 
-set /p "pasta=DiGiTe o NoMe Da PaSTa : "
-echo. 
-mkdir %pasta%
-cd %pasta%
+if /i "%segundoMenuOpcao%"=="1" (
+	REM - MENU 03.
+	echo. 
+	echo.OPCOES DE VIDEO:
+	echo.[1] MeLHoR QuaLiDaDe.
+	echo.[2] Video Aulas.
+	echo.[3] WhatsApp ^<= 4 Minutos.
+	echo. 
+
+	set /p "resolucao=OPCAO: "
+) else (
+	if /i "%segundoMenuOpcao%"=="3" (
+	REM - MENU 03.
+	echo. 
+	echo.OPCOES DE VIDEO:
+	echo.[1] MeLHoR QuaLiDaDe.
+	echo.[2] Video Aulas.
+	echo.[3] WhatsApp ^<= 4 Minutos.
+	echo. 
+
+	set /p "resolucao=OPCAO: "
+)	
+)
 
 REM - INICIANDO OS PROCESSOS...
 echo. 
@@ -123,16 +138,25 @@ if /i "%verdadeiroFalso1%"=="verdadeiro" (
 		REM - INÍCIO DO LAÇO FOR.
 		REM - LENDO TODAS AS LINHAS DO ARQUIVO DE TEXTO QUE CONTÉM AS URL.
 		REM - FAZENDO OS DOWNLOADS.
-		for /f "tokens=* delims= " %%a in (..\uRL-youTuBe.TXT) do (
-		..\yT-DLP.eXe --sub-lang %idioma% --write-sub --write-auto-sub --skip-download %%a
-		..\yT-DLP.eXe %%a
+		for /f "tokens=* delims= " %%a in (uRL-youTuBe.TXT) do (
+			if /i "%resolucao%"=="1" (
+			yT-DLP.eXe --continue %%a --restrict-filenames --output-na-placeholder SemPlayLisT --output "%%(channel)s/%%(playlist)s/%%(title)s.%%(ext)s"
+		)
+			if /i "%resolucao%"=="2" (
+			yT-DLP.eXe --continue --format "best[height<=720][fps<=30][abr<=128]" %%a --restrict-filenames --output-na-placeholder SemPlayLisT --output "%%(channel)s/%%(playlist)s/%%(title)s.%%(ext)s"
+		)
+			if /i "%resolucao%"=="3" (
+			yT-DLP.eXe --continue --format "[filesize<=16M]" %%a --restrict-filenames --output-na-placeholder SemPlayLisT --output "%%(channel)s/%%(playlist)s/%%(title)s.%%(ext)s"
+		)
+
+			yT-DLP.eXe --continue --sub-lang %idioma% --write-sub --write-auto-sub --skip-download %%a --restrict-filenames --output-na-placeholder SemPlayLisT --output "%%(channel)s/%%(playlist)s/%%(title)s.%%(ext)s"
 		)
 		REM - FIM DO LAÇO FOR.
 
 		REM - INÍCIO DO LAÇO FOR.
 		REM - CONVERTENDO .VTT PARA .SRT.
-		for %%b in (*.vtt) do (
-		..\FFMPeG.eXe -i "%%b" "%%b.srt"
+		for /R %%b in (*.vtt) do (
+			FFMPeG.eXe -i "%%b" "%%b.srt"
 		del "%%b"
 		)
 		REM - FIM DO LAÇO FOR.
@@ -141,8 +165,17 @@ if /i "%verdadeiroFalso1%"=="verdadeiro" (
 		REM - INÍCIO DO LAÇO FOR.
 		REM - LENDO TODAS AS LINHAS DO ARQUIVO DE TEXTO QUE CONTÉM AS URL.
 		REM - FAZENDO OS DOWNLOADS.
-		for /f "tokens=* delims= " %%a in (..\uRL-youTuBe.TXT) do (
-		..\yT-DLP.eXe %%a
+		for /f "tokens=* delims= " %%a in (uRL-youTuBe.TXT) do (
+			if /i "%resolucao%"=="1" (
+			yT-DLP.eXe --continue %%a --restrict-filenames --output-na-placeholder SemPlayLisT --output "%%(channel)s/%%(playlist)s/%%(title)s.%%(ext)s"
+		)
+			if /i "%resolucao%"=="2" (
+			yT-DLP.eXe --continue --format "best[height<=720][fps<=30][abr<=128]" %%a --restrict-filenames --output-na-placeholder SemPlayLisT --output "%%(channel)s/%%(playlist)s/%%(title)s.%%(ext)s"
+		)
+			if /i "%resolucao%"=="3" (
+			yT-DLP.eXe --continue --format "[filesize<=16M]" %%a --restrict-filenames --output-na-placeholder SemPlayLisT --output "%%(channel)s/%%(playlist)s/%%(title)s.%%(ext)s"
+		)
+
 		)
 		REM - FIM DO LAÇO FOR.
 	)
@@ -151,15 +184,15 @@ if /i "%verdadeiroFalso1%"=="verdadeiro" (
 		REM - INÍCIO DO LAÇO FOR.
 		REM - LENDO TODAS AS LINHAS DO ARQUIVO DE TEXTO QUE CONTÉM AS URL.
 		REM - FAZENDO OS DOWNLOADS.
-		for /f "tokens=* delims= " %%a in (..\uRL-youTuBe.TXT) do (
-		..\yT-DLP.eXe --sub-lang %idioma% --write-sub --write-auto-sub --skip-download %%a
+		for /f "tokens=* delims= " %%a in (uRL-youTuBe.TXT) do (
+			yT-DLP.eXe --continue --sub-lang %idioma% --write-sub --write-auto-sub --skip-download %%a --restrict-filenames --output-na-placeholder SemPlayLisT --output "%%(channel)s/%%(playlist)s/%%(title)s.%%(ext)s"
 		)
 		REM - FIM DO LAÇO FOR.
 
 		REM - INÍCIO DO LAÇO FOR.
 		REM - CONVERTENDO .VTT PARA .SRT.
-		for %%b in (*.vtt) do (
-		..\FFMPeG.eXe -i "%%b" "%%b.srt"
+		for /R %%b in (*.vtt) do (
+			FFMPeG.eXe -i "%%b" "%%b.srt"
 		del "%%b"
 		)
 		REM - FIM DO LAÇO FOR.
@@ -168,7 +201,6 @@ if /i "%verdadeiroFalso1%"=="verdadeiro" (
 		goto :saidoPrograma
 	)
 )
-
 
 REM - SAIR DO PROGRAMA.
 :saidoPrograma
