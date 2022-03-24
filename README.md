@@ -1,5 +1,5 @@
 # TurBoy
-<h1>Baixe Vídeos e Legendas(.srt) Do Seu Idioma De Canais Inteiros e De PlayLists Do YouTube</h1>
+<h1>Baixe Vídeos e Legendas(.srt) Do Seu Idioma De PlayLists e De Canais Inteiros Do YouTube</h1>
 </br>
 </br>
 <img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy.png">
@@ -38,7 +38,7 @@ Acredito que a comunidade encontrará neste material rico, inovador e simples do
 1. Taxa De Download Muito Alta, (NO MÁXIMO)!
 </br>
 </br>
-2. Excelente Para Quem Gosta De Baixar Vídeo Aulas De PlayLists e De Canais Completos, 
+2. Excelente Para Quem Gosta De Baixar Vídeo Aulas De PlayLists e De Canais Inteiros, 
 </br>
 Sem Perder a Qualidade Do Vídeo Priorizando a Economia De Espaço De Armazenamento.
 </br>
