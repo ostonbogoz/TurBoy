@@ -101,7 +101,7 @@ https://www.videolan.org/vlc/
 </br>
 </br>
 <h2>[ARQUIVOS OPEN SOURCES]</h2>
-1. TurBoy.bat (Aonde Está Toda a Automatização).
+1. TurBoy.BaT (Aonde Está Toda a Automatização).
 </br>
 </br>
 2. yT-DLP.eXe (É Usado Para Acessar, Escolher e Baixar Os Conteúdos Através Das URL Do YouTube). 
