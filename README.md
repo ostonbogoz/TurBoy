@@ -94,7 +94,7 @@ Também Pode Usar a Antiga Lista Somente Como Acumulador De URL do YouTube Autom
 </br>
 </br>
 <h2>[DICAS]</h2>
-1. Cria Primeiro Uma PlayList Pública e Vá Adicionando Os Vídeos Que Você Quer Baixar De Uma Só Vez, Isto Lhe Poupará Tempo e Trabalho.
+1. Cria Primeiro Uma PlayList Pública e Vá Adicionando Os Vídeos Que Você Quer Baixar De Uma Só Vez Nesta PlayList, Isto Lhe Poupará Tempo e Trabalho.
 </br>
 </br>
 2. Use Como Player De Vídeo Universal o VLC (Open Source).
