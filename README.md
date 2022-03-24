@@ -45,18 +45,27 @@ Priorizando Economia De Espaço De Armazenamento Sempre Com a Melhor Qualidade D
 (PADRÃO yT-DLP.eXe - 720p Melhor Qualidade).
 </br>
 </br>
-3. Portable (Não Precisa Instalar).
+3. Baixar Videos Para WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo Os Requisitos Do Aplicativo.
 </br>
 </br>
-4. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
+4. Baixar Vídeos Da Melhor Qualidade.
 </br>
 </br>
-5. Tentei Fazer o Mais Simples e Prático Possível, Através De Um MENU, 
+5. Na Hora Do Download Cria Uma Estruturas De Pastas Organizadas e Automatizadas, Canais, PlaysLists e Vídeos Idependentes.
+</br>
+</br>
+7. Portable (Não Precisa Instalar).
+</br>
+</br>
+8. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
+</br>
+</br>
+9. Tentei Fazer o Mais Simples e Prático Possível, Através De Um MENU, 
 </br>
 Acredito Que Vai Poder Ter a Total Liberdade Para Fazer Tudo o Que Precisar.
 </br>
 </br>
-6. OPÇÕES NO MENU
+10. OPÇÕES NO MENU
 </br>
 De Baixar Somente Vídeos, 
 </br>
@@ -65,20 +74,20 @@ De Baixar Somente Legendas e
 De Baixar Vídeos e Legendas Juntas.
 </br>
 </br>
-7. De Baixar PlayLists Inteiras, 
+11. De Baixar PlayLists Inteiras, 
 </br>
 De Baixar Canais Inteiros e 
 </br>
 Baixar Vídeos Isolados.
 </br>
 </br>
-8. Escolher o Idioma Da Legenda.
+12. Escolher o Idioma Da Legenda.
 </br>
 </br>
-9. Escolher a Pasta Que Vai Receber os Arquivos Baixados.
+13. Escolher a Pasta Que Vai Receber os Arquivos Baixados.
 </br>
 </br>
-10. LISTA URL YOUTUBE
+14. LISTA URL YOUTUBE
 </br>
 Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo Da lista De URL Do Youtube Automaticamente, 
 </br>
