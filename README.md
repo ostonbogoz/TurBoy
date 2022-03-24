@@ -49,7 +49,7 @@ Sem Perder a Qualidade Do Vídeo Priorizando a Economia De Espaço De Armazename
 4. Baixar Vídeos Da Melhor Qualidade Disponível.
 </br>
 </br>
-5. Na Hora Do Download Automatiza Criando Uma Estruturas De Pastas Organizadas Para, Canais, PlaysLists e Vídeos Idependentes.
+5. Na Hora Do Download à Uma Automatização Na Criação De Estruturas De Pastas Organizadas Para, Armazenar, Canais, PlaysLists e Vídeos Idependentes.
 </br>
 </br>
 6. Portable (Não Precisa Instalar).
