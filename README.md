@@ -40,15 +40,13 @@ Acredito que a comunidade encontrará neste material rico, inovador e simples do
 </br>
 2. Excelente Para Quem Gosta De Baixar Vídeo Aulas De PlayLists e De Canais Completos, 
 </br>
-Priorizando Economia De Espaço De Armazenamento Sempre Com a Melhor Qualidade Do Vídeo.
-</br>
-(PADRÃO yT-DLP.eXe - 720p Melhor Qualidade).
+Priorizando Economia De Espaço De Armazenamento ao Mesmo Tempo Com Uma Excelente Qualidade Do Vídeo.
 </br>
 </br>
 3. Baixar Videos Para WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo Os Requisitos Do Aplicativo.
 </br>
 </br>
-4. Baixar Vídeos Da Melhor Qualidade.
+4. Baixar Vídeos Da Melhor Qualidade Disponível.
 </br>
 </br>
 5. Na Hora Do Download Cria Uma Estruturas De Pastas Organizadas e Automatizadas, Canais, PlaysLists e Vídeos Idependentes.
