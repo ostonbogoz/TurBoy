@@ -2,7 +2,7 @@
 <h1>Baixe Vídeos e Legendas(.srt) De Canais e PlayLists Do YouTube</h1>
 </br>
 </br>
-<img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy-00.png">
+<img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy.png">
 </br>
 Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
 </br>
