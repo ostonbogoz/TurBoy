@@ -1,5 +1,5 @@
 # TurBoy
-<h1>Baixe Vídeos e Legendas(.srt) De Canais e PlayLists Do YouTube</h1>
+<h1>Baixe Vídeos e Legendas(.srt) De Canais e PlayLists Inteiros No YouTube</h1>
 </br>
 </br>
 <img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy.png">
