@@ -4,18 +4,6 @@
 </br>
 <img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy.png">
 </br>
-<h2>DOWNLOAD</h2>
-Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
-</br>
-Então estou oferecendo baixar o projeto completo(funcional) no repositório alternativo.
-</br>
-</br>
-<b>Baixe a versão completa no link abaixo:</b>
-</br>
-<a href="https://drive.google.com/file/d/1pYAXoODHNB3ZTS16MXeTCYFtdvjx1SPa/view?usp=sharing">Download GooGle Drive [TurBoy.7z]</a>
-</br>
-</br>
-</br>
 <h2>[VANTAGENS]</h2>
 1. Taxa De Download Muito Alta, (NO MÁXIMO)!
 </br>
@@ -119,3 +107,15 @@ https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 </br>
 </br>
 4. uRL-youTuBe.TXT (Semi Temporário Depende Do Usuário, é Aonde Armazena e Acumula As URL Do YouTube).
+</br>
+</br>
+</br>
+<h2>DOWNLOAD</h2>
+Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
+</br>
+Então estou oferecendo baixar o projeto completo(funcional) no repositório alternativo.
+</br>
+</br>
+<b>Baixe a versão completa no link abaixo:</b>
+</br>
+<a href="https://drive.google.com/file/d/1pYAXoODHNB3ZTS16MXeTCYFtdvjx1SPa/view?usp=sharing">Download GooGle Drive [TurBoy.7z]</a>
