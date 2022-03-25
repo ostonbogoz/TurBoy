@@ -25,12 +25,12 @@ https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 Com Sistema De Criação De Pastas Organizadas e De Numeração De Vídeos!
 </br>
 </br>
-3. Retoma arquivos fragmentados parcialmente baixados.
+3. Retoma Arquivos Interrompidos Fragmentados Parcialmente Baixados.
 </br>
 </br>
 4. Pode Colocar Vários URL De Canais, De PlayLists e De Vídeos Sozinhos Na Mesma Lista!
 </br>
-Que Todas As URL Contida Na Lista Será Baixada e Armazenada Organizadamente!
+Que Todas As URL Contidas Na Lista Será Baixadas e Armazenadas Organizadamente!
 </br>
 </br>
 5. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Ambos.
