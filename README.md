@@ -75,7 +75,7 @@ Então estou oferecendo baixar o projeto completo(funcional) no repositório alt
 </br>
 </br>
 <h2>[MOTIVO]</h2>
-A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma [pt] no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! 
+A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma [pt] no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! O estopin para dar início a este projeto foi que eu queria baixar 80% das playlists com vídeos e legendas [pt] contidas neste canal: https://www.youtube.com/c/TheCodingTrain/playlists
 </br>
 </br>
 Então eu não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows, achei somente material bem escaço para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
