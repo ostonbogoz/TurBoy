@@ -30,7 +30,7 @@ Com Estrutura De Pastas Organizadas e Vídeos Numerados!
 Que Todas As URL Contida Na Lista Será Baixada e Armazenada Organizadamente!
 </br>
 </br>
-3. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Ambros.
+3. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Ambos.
 </br>
 </br>
 4. Escolher o Idioma Da Legenda(.srt) .
