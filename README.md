@@ -86,10 +86,8 @@ https://www.videolan.org/vlc/
 <h2>[DOWNLOAD]</h2>
 Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
 </br>
-Então estou oferecendo baixar o projeto completo(funcional) no repositório alternativo.
 </br>
-</br>
-<b>Baixe a versão completa no link abaixo:</b>
+<b>Repositório Alternativo:</b>
 </br>
 <a href="https://drive.google.com/file/d/12BLgtgOA5dEW8e3YWjlPA5nXjOj2ntRp">Download GooGle Drive [TurBoy.7z]</a>
 </br>
