@@ -17,7 +17,7 @@ https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 </br>
 Acrescentei neste genrenciador de Download Do Youtube, todas as OPÇÕES que eu senti falta e também de opções BUGADOS dos melhores gerenciados de download do youtube do MERCADO.
 </br>
-Acredito que atenderá a demanda, o usuário terá liberdade de escolher todas as opções que lhe satisfaça.
+Atenderá a demanda, o usuário terá liberdade de escolher todas as opções que lhe satisfaça.
 </br>
 </br>
 </br>
