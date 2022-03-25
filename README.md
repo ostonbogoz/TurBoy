@@ -73,25 +73,6 @@ https://www.videolan.org/vlc/
 </br>
 </br>
 </br>
-<h2>[MOTIVO]</h2>
-A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma [pt] no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! 
-</br>
-</br>
-Então eu não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows, achei somente material bem escaço para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
-</br>
-</br>
-</br>
-<h2>[EXPERIÊNCIA]</h2>
-De início me custou poucas horas de puro prazer "codando", com desafios e buscando soluções em fóruns, eu só sabia praticamente míseros 1% do script (.bat), depois me empolguei com o projeto e decidi incluir baixar vídeos, adcionar menus, customizações, aprimoramentos e muitos testes, que transformou em 2 dias de um prazeroso aprendizado.
-</br>
-</br>
-Consegui quebrar limitações do script (.bat), como a criação e aprimoramento do sistema de estruturas de decisão com simulação como estive-se usando junto com os operadores lógicos (AND) e (OR).
-</br>
-</br>
-Acredito que a comunidade encontrará neste material rico, inovador e simples do script (.bat) do que precisa, é um projeto totalmente Open Source.
-</br>
-</br>
-</br>
 <h2>[ARQUIVOS OPEN SOURCES]</h2>
 1. TurBoy.BaT (Aonde Está Toda a Automatização).
 </br>
@@ -119,3 +100,22 @@ Então estou oferecendo baixar o projeto completo(funcional) no repositório alt
 <b>Baixe a versão completa no link abaixo:</b>
 </br>
 <a href="https://drive.google.com/file/d/1pYAXoODHNB3ZTS16MXeTCYFtdvjx1SPa/view?usp=sharing">Download GooGle Drive [TurBoy.7z]</a>
+</br>
+</br>
+</br>
+<h2>[MOTIVO]</h2>
+A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma [pt] no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! 
+</br>
+</br>
+Então eu não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows, achei somente material bem escaço para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
+</br>
+</br>
+</br>
+<h2>[EXPERIÊNCIA]</h2>
+De início me custou poucas horas de puro prazer "codando", com desafios e buscando soluções em fóruns, eu só sabia praticamente míseros 1% do script (.bat), depois me empolguei com o projeto e decidi incluir baixar vídeos, adcionar menus, customizações, aprimoramentos e muitos testes, que transformou em 2 dias de um prazeroso aprendizado.
+</br>
+</br>
+Consegui quebrar limitações do script (.bat), como a criação e aprimoramento do sistema de estruturas de decisão com simulação como estive-se usando junto com os operadores lógicos (AND) e (OR).
+</br>
+</br>
+Acredito que a comunidade encontrará neste material rico, inovador e simples do script (.bat) do que precisa, é um projeto totalmente Open Source.
