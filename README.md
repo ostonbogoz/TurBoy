@@ -22,12 +22,12 @@ https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 </br>
 2. Baixa PlayLists e Canais Inteiros!
 </br>
-Com Estrutura De Pastas Organizadas e Vídeos Numerados!
+   Com Estrutura De Pastas Organizadas e Vídeos Numerados!
 </br>
 </br>
-3. Pode Colocar Vários URL De Canais, Playlists e De Vídeos Na Mesma Lista!
+3. Pode Colocar Vários URL De Canais, De PlayLists e De Vídeos Na Mesma Lista!
 </br>
-Que Todas As URL Contida Na Lista Será Baixada e Armazenada Organizadamente!
+   Que Todas As URL Contida Na Lista Será Baixada e Armazenada Organizadamente!
 </br>
 </br>
 3. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Vídeos e Legendas(.srt) Juntas.
