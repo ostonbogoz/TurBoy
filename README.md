@@ -1,22 +1,20 @@
 # TurBoy
 <h1>Baixe Vídeos e Legendas(.srt) Do Seu Idioma De PlayLists e De Canais Inteiros Do YouTube</h1>
-</br>
-</br>
 <img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy.png">
-</br>
 <h2>[VANTAGENS]</h2>
 1. Taxa De Download Muito Alta, (NO MÁXIMO)!
 </br>
 </br>
-2. Excelente Para Quem Gosta De Baixar Vídeo Aulas De PlayLists e De Canais Inteiros, 
+2. Baixar Vídeos Da Melhor Qualidade Disponível.
+</br>
+</br>
+3. Excelente Para Quem Gosta De Baixar Vídeo Aulas De PlayLists e De Canais Inteiros, 
 </br>
 Sem Perder a Qualidade Do Vídeo Priorizando a Economia De Espaço De Armazenamento.
 </br>
 </br>
-3. Baixar Videos Para WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo Os Requisitos Do Aplicativo.
+4. Baixar Videos Para WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo Os Requisitos Do Aplicativo.
 </br>
-</br>
-4. Baixar Vídeos Da Melhor Qualidade Disponível.
 </br>
 </br>
 5. Na Hora Do Download à Uma Automatização Na Criação De Estruturas De Pastas Organizadas Para, Armazenar, Canais, PlaysLists e Vídeos Idependentes.
