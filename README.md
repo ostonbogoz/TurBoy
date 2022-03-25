@@ -25,30 +25,33 @@ https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 Com Sistema De Criação De Pastas Organizadas e De Numeração De Vídeos!
 </br>
 </br>
-3. Pode Colocar Vários URL De Canais, De PlayLists e De Vídeos Sozinhos Na Mesma Lista!
+3. Retoma arquivos fragmentados parcialmente baixados.
+</br>
+</br>
+4. Pode Colocar Vários URL De Canais, De PlayLists e De Vídeos Sozinhos Na Mesma Lista!
 </br>
 Que Todas As URL Contida Na Lista Será Baixada e Armazenada Organizadamente!
 </br>
 </br>
-3. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Ambos.
+5. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Ambos.
 </br>
 </br>
-4. Escolher o Idioma Da Legenda(.srt) .
+6. Escolher o Idioma Da Legenda(.srt) .
 </br>
 </br>
-5. Baixa Vídeos Da Melhor Qualidade Disponível.
+7. Baixa Vídeos Da Melhor Qualidade Disponível.
 </br>
 </br>
-6. Excelente Para Os Amantes De Vídeo Aulas Que Podem Baixar Vídeos Sem Perda De Qualidade Priorizando a Economia De Espaço De Armazenamento.
+8. Excelente Para Os Amantes De Vídeo Aulas Que Podem Baixar Vídeos Sem Perda De Qualidade Priorizando a Economia De Espaço De Armazenamento.
 </br>
 </br>
-8. Perfeito Para Baixar Vídeos WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo As Limitações De Requisitos Do Aplicativo.
+9. Perfeito Para Baixar Vídeos WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo As Limitações De Requisitos Do Aplicativo.
 </br>
 </br>
-9. Portable (Não Precisa Instalar).
+10. Portable (Não Precisa Instalar).
 </br>
 </br>
-10. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
+11. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
 </br>
 </br>
 </br>
