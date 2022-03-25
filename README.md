@@ -22,15 +22,15 @@ https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 </br>
 2. Baixa PlayLists e Canais Inteiros!
 </br>
-   Com Estrutura De Pastas Organizadas e Vídeos Numerados!
+Com Estrutura De Pastas Organizadas e Vídeos Numerados!
 </br>
 </br>
 3. Pode Colocar Vários URL De Canais, De PlayLists e De Vídeos Na Mesma Lista!
 </br>
-   Que Todas As URL Contida Na Lista Será Baixada e Armazenada Organizadamente!
+Que Todas As URL Contida Na Lista Será Baixada e Armazenada Organizadamente!
 </br>
 </br>
-3. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Vídeos e Legendas(.srt) Juntas.
+3. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Ambros.
 </br>
 </br>
 4. Escolher o Idioma Da Legenda(.srt) .
@@ -39,23 +39,16 @@ https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 5. Baixa Vídeos Da Melhor Qualidade Disponível.
 </br>
 </br>
-6. Exceelente Para Amantes De Vídeo Aulas Que Podem Baixar Vídeos Sem Perda De Qualidade Priorizando a Economia De Espaço De Armazenamento.
+6. Excelente Para Os Amantes De Vídeo Aulas Que Podem Baixar Vídeos Sem Perda De Qualidade Priorizando a Economia De Espaço De Armazenamento.
 </br>
 </br>
-8. Baixa Vídeos Para WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo As Limitações De Requisitos Do Aplicativo.
+8. Perfeito Para Baixar Vídeos WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo As Limitações De Requisitos Do Aplicativo.
 </br>
 </br>
 9. Portable (Não Precisa Instalar).
 </br>
 </br>
 10. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
-</br>
-</br>
-13. LISTA URL YOUTUBE
-</br>
-Pode Deletar o Arquivo Da Antiga Lista e Criar Um Novo Arquivo Da lista De URL Do Youtube Automaticamente, 
-</br>
-Também Pode Usar a Antiga Lista Somente Como Acumulador De URL do YouTube Automaticamente.
 </br>
 </br>
 </br>
@@ -66,24 +59,6 @@ Também Pode Usar a Antiga Lista Somente Como Acumulador De URL do YouTube Autom
 2. Use Como Player De Vídeo Universal o VLC (Open Source).
 </br>
 https://www.videolan.org/vlc/
-</br>
-</br>
-</br>
-<h2>[ARQUIVOS OPEN SOURCES]</h2>
-1. TurBoy.BaT (Aonde Está Toda a Automatização).
-</br>
-</br>
-2. yT-DLP.eXe (É Usado Para Acessar, Escolher e Baixar Os Conteúdos Através Das URL Do YouTube). 
-</br>
-https://github.com/yt-dlp/yt-dlp
-</br>
-</br>
-3. FFMPeG.eXe (Converte As Legendas .ytt Para .srt ). 
-</br>
-https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
-</br>
-</br>
-4. uRL-youTuBe.TXT (Semi Temporário Depende Do Usuário, é Aonde Armazena e Acumula As URL Do YouTube).
 </br>
 </br>
 </br>
