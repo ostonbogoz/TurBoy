@@ -25,48 +25,30 @@ https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 Com Estrutura De Pastas Organizadas e Vídeos Numerados!
 </br>
 </br>
-3. Baixa Vídeos Da Melhor Qualidade Disponível.
+3. Pode Colocar Vários URL De Canais, Playlists e De Vídeos Na Mesma Lista!
+</br>
+Que Todas As URL Contida Na Lista Será Baixada e Armazenada Organizadamente!
 </br>
 </br>
-4. Exceelente Para Amantes De Vídeo Aulas Que Podem Baixar Vídeos Sem Perda De Qualidade Priorizando a Economia De Espaço De Armazenamento.
+3. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Vídeos e Legendas(.srt) Juntas.
 </br>
 </br>
-5. Baixa Vídeos Para WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo Limitações De Requisitos Do Aplicativo.
+4. Escolher o Idioma Da Legenda(.srt) .
 </br>
 </br>
+5. Baixa Vídeos Da Melhor Qualidade Disponível.
 </br>
 </br>
-6. Portable (Não Precisa Instalar).
+6. Exceelente Para Amantes De Vídeo Aulas Que Podem Baixar Vídeos Sem Perda De Qualidade Priorizando a Economia De Espaço De Armazenamento.
 </br>
 </br>
-7. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
+8. Baixa Vídeos Para WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo As Limitações De Requisitos Do Aplicativo.
 </br>
 </br>
-8. Tentei Fazer o Mais Simples e Prático Possível, Através De Um MENU, 
-</br>
-Acredito Que Vai Poder Ter a Total Liberdade Para Fazer Tudo o Que Precisar.
+9. Portable (Não Precisa Instalar).
 </br>
 </br>
-9. OPÇÕES NO MENU
-</br>
-De Baixar Somente Vídeos, 
-</br>
-De Baixar Somente Legendas e 
-</br>
-De Baixar Vídeos e Legendas Juntas.
-</br>
-</br>
-10. De Baixar PlayLists Inteiras, 
-</br>
-De Baixar Canais Inteiros e 
-</br>
-Baixar Vídeos Isolados.
-</br>
-</br>
-11. Escolher o Idioma Da Legenda.
-</br>
-</br>
-12. Escolher a Pasta Que Vai Receber os Arquivos Baixados.
+10. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
 </br>
 </br>
 13. LISTA URL YOUTUBE
