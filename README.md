@@ -2,7 +2,7 @@
 <h1>Baixe Vídeos e Legendas(.srt) Do Seu Idioma De PlayLists e De Canais Inteiros Do YouTube</h1>
 <img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy.png">
 <h2>[O QUE É]</h2>
-É um Fork Desenvolvido Em Script Batch Windows (.bat) dos:
+É um Fork Desenvolvido Em Script Batch Windows (.bat) Dos Aplicativos:
 </br>
 </br>
 1. yT-DLP.eXe (Acessar, Escolher e Baixar Os Conteúdos Através Das URL Do YouTube). 
@@ -20,19 +20,20 @@ https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 1. Taxa De Download Muito Alta, (NO MÁXIMO)!
 </br>
 </br>
-2. Baixar Vídeos Da Melhor Qualidade Disponível.
+2. Baixa PlayLists e Canais Inteiros!
+</br>
+Com Estrutura De Pastas Organizadas e Vídeos Numerados!
 </br>
 </br>
-3. Excelente Para Quem Gosta De Baixar Vídeo Aulas De PlayLists e De Canais Inteiros, 
+3. Baixa Vídeos Da Melhor Qualidade Disponível.
 </br>
 </br>
-Sem Perder a Qualidade Do Vídeo Priorizando a Economia De Espaço De Armazenamento.
+4. Exceelente Para Amantes De Vídeo Aulas Que Podem Baixar Vídeos Sem Perda De Qualidade Priorizando a Economia De Espaço De Armazenamento.
 </br>
 </br>
-4. Baixar Videos Para WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo Os Requisitos Do Aplicativo.
+5. Baixa Vídeos Para WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo Limitações De Requisitos Do Aplicativo.
 </br>
 </br>
-5. Na Hora Do Download à Uma Automatização Na Criação De Estruturas De Pastas Organizadas Para, Armazenar, Canais, PlaysLists e Vídeos Idependentes.
 </br>
 </br>
 6. Portable (Não Precisa Instalar).
