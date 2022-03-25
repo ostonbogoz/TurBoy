@@ -1,4 +1,4 @@
-# TurBoy
+# [TurBoy] Gerenciador De Download YouTube Turbo
 <h1>😎👉👉💥 Baixe Vídeos e Legendas(.srt) Do Seu Idioma e Também De PlayLists e De Canais Inteiros Do YouTube</h1>
 <img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy.png">
 <h2>[O QUE É]</h2>
