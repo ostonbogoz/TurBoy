@@ -22,7 +22,7 @@ https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 </br>
 2. Baixa PlayLists e Canais Inteiros!
 </br>
-Com Estrutura De Pastas Organizadas e Vídeos Numerados!
+Com Sistema De Criação De Pastas Organizadas e De Numeração De Vídeos!
 </br>
 </br>
 3. Pode Colocar Vários URL De Canais, De PlayLists e De Vídeos Na Mesma Lista!
