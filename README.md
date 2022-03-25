@@ -15,7 +15,7 @@ https://github.com/yt-dlp/yt-dlp
 https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 </br>
 </br>
-Acrescentei Neste Gerenciador De Download Do Youtube, todas as OPÇÕES que eu SENTI FALTA e também de OPÇÕES BUGADOS dos melhores gerenciados de download do youtube do MERCADO.
+Gerenciador De Download Do Youtube, que foi acrescentado todas as OPÇÕES que eu SENTI FALTA e também de OPÇÕES BUGADOS dos melhores gerenciados de download do youtube do MERCADO.
 </br>
 </br>
 ATENDERÁ A DEMANDA, O USUÁRIO TERÁ LIBERDADE DE ESCOLHER TODAS AS OPÇÕES QUE LHE SATISFAÇA.
