@@ -53,7 +53,7 @@ Que Todas As URL Contida Na Lista Será Baixada e Armazenada Organizadamente!
 </br>
 </br>
 <h2>[DICAS]</h2>
-1. Cria Primeiro Uma PlayList Pública e Vá Adicionando Os Vídeos Que Você Quer Baixar De Uma Só Vez Nesta PlayList, Isto Lhe Poupará Tempo e Trabalho.
+1. Se Quiser Baixar Vários Vídeos De Uma Só Vez Poupando Tempo e Trabalho, Cria Primeiro Uma PlayList Pública e Vá Adicionando, Depois é Só Usar a URL Desta PlayList.
 </br>
 </br>
 2. Use Como Player De Vídeo Universal o VLC (Open Source).
@@ -75,7 +75,7 @@ Então estou oferecendo baixar o projeto completo(funcional) no repositório alt
 </br>
 </br>
 <h2>[MOTIVO]</h2>
-A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma (pt) no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! O estopin para dar início a este projeto foi que eu queria baixar (80%) das playlists com vídeos e legendas (pt) contidas neste URL: https://www.youtube.com/c/TheCodingTrain/playlists
+A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma (pt) no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! O estopin para dar início a este projeto foi que eu queria baixar (80%) das playlists com vídeos e legendas (pt) contidas nesta URL: https://www.youtube.com/c/TheCodingTrain/playlists
 </br>
 </br>
 Então eu não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows, achei somente material bem escaço para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
