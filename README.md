@@ -1,6 +1,21 @@
 # TurBoy
 <h1>Baixe Vídeos e Legendas(.srt) Do Seu Idioma De PlayLists e De Canais Inteiros Do YouTube</h1>
 <img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy.png">
+<h2>[O QUE É]</h2>
+É um Fork Desenvolvido Em Script Batch Windows (.bat) dos:
+</br>
+</br>
+1. yT-DLP.eXe (Acessar, Escolher e Baixar Os Conteúdos Através Das URL Do YouTube). 
+</br>
+https://github.com/yt-dlp/yt-dlp
+</br>
+</br>
+2. FFMPeG.eXe (Converte As Legendas .ytt Para .srt ). 
+</br>
+https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
+</br>
+</br>
+</br>
 <h2>[VANTAGENS]</h2>
 1. Taxa De Download Muito Alta, (NO MÁXIMO)!
 </br>
@@ -10,11 +25,11 @@
 </br>
 3. Excelente Para Quem Gosta De Baixar Vídeo Aulas De PlayLists e De Canais Inteiros, 
 </br>
+</br>
 Sem Perder a Qualidade Do Vídeo Priorizando a Economia De Espaço De Armazenamento.
 </br>
 </br>
 4. Baixar Videos Para WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo Os Requisitos Do Aplicativo.
-</br>
 </br>
 </br>
 5. Na Hora Do Download à Uma Automatização Na Criação De Estruturas De Pastas Organizadas Para, Armazenar, Canais, PlaysLists e Vídeos Idependentes.
