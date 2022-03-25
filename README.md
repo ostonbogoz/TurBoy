@@ -63,6 +63,9 @@ Que Todas As URL Contidas Na Lista Será Baixadas e Armazenadas Organizadamente!
 12. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
 </br>
 </br>
+13. É Extremamente Leve e Pequeno, Ideal Para Computadores Antigos.
+</br>
+</br>
 </br>
 <h2>[DICAS]</h2>
 1. O Sistema De Numeração De Arquivos é Opcional, Use Para URL De Canais e De PlayLists e Deixa Desabilitado Somente Para Vídeos Sozinhos.
