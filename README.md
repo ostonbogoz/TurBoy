@@ -59,10 +59,13 @@ Que Todas As URL Contidas Na Lista Será Baixadas e Armazenadas Organizadamente!
 1. O Sistema De Numeração De Vídeos é Opcional, Use Para URL De Canais e De PlayLists e Deixa Desabilitado Somente Para Vídeos Sozinhos.
 </br>
 </br>
-3. Se Quiser Baixar Vários Vídeos Sozinhos De Uma Só Vez Poupando Tempo e Trabalho, Cria Primeiro Uma PlayList Pública e Vá Adicionando, Depois é Só Usar a URL Desta PlayList.
+2. Se Quiser Baixar Vários Vídeos Sozinhos De Uma Só Vez Poupando Tempo e Trabalho, Cria Primeiro Uma PlayList Pública e Vá Adicionando, Depois é Só Usar a URL Desta PlayList.
 </br>
 </br>
-2. Use Como Player De Vídeo Universal o VLC (Open Source).
+3. Tenta Baixar Vídeos Para Compartilhar No WhatsApp De No Máximo 3 Minutos Para Poder Garantir a Boa Qualidade.
+</br>
+</br>
+4. Use Como Player De Vídeo Universal o VLC (Open Source).
 </br>
 https://www.videolan.org/vlc/
 </br>
