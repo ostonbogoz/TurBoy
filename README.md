@@ -10,14 +10,14 @@
 https://github.com/yt-dlp/yt-dlp
 </br>
 </br>
-Acrescentei neste genrenciador de Download Do Youtube, todas as OPÇÕES que eu senti falta e BUGADOS dos melhores gerenciados de download do youtube do MERCADO.
-</br>
-Acredito que atenderá a demanda, o usuário terá liberdade de escolher todas as opções que lhe satisfaça.
-</br>
-</br>
 2. FFMPeG.eXe (Converte As Legendas .ytt Para .srt ). 
 </br>
 https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
+</br>
+</br>
+Acrescentei neste genrenciador de Download Do Youtube, todas as OPÇÕES que eu senti falta e BUGADOS dos melhores gerenciados de download do youtube do MERCADO.
+</br>
+Acredito que atenderá a demanda, o usuário terá liberdade de escolher todas as opções que lhe satisfaça.
 </br>
 </br>
 </br>
