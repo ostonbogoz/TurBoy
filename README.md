@@ -56,7 +56,7 @@ Que Todas As URL Contida Na Lista Será Baixada e Armazenada Organizadamente!
 1. O Sistema De Numeração De Vídeos é Opcional, Use Para URL De Canais e De PlayLists e Deixa Desabilitado Somente Para Vídeos Sozinhos.
 </br>
 </br>
-3. Se Quiser Baixar Vários Vídeos De Uma Só Vez Poupando Tempo e Trabalho, Cria Primeiro Uma PlayList Pública e Vá Adicionando, Depois é Só Usar a URL Desta PlayList.
+3. Se Quiser Baixar Vários Vídeos Sozinhos De Uma Só Vez Poupando Tempo e Trabalho, Cria Primeiro Uma PlayList Pública e Vá Adicionando, Depois é Só Usar a URL Desta PlayList.
 </br>
 </br>
 2. Use Como Player De Vídeo Universal o VLC (Open Source).
