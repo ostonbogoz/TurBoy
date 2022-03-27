@@ -23,48 +23,64 @@ ATENDERÁ A DEMANDA, O USUÁRIO TERÁ LIBERDADE DE ESCOLHER TODAS AS OPÇÕES QU
 </br>
 </br>
 </br>
+</br>
 <h2>[VANTAGENS]</h2>
 1. Baixa PlayLists e Canais Inteiros!
+</br>
 </br>
 Com Sistema De Criação De Pastas Organizadas e De Numeração De Arquivos!
 </br>
 </br>
+</br>
 2. Pode Colocar Vários URL De Canais, De PlayLists e De Vídeos Sozinhos Na Mesma Lista!
 </br>
+</br>
 Que Todas As URL Contidas Na Lista Será Baixadas e Armazenadas Organizadamente!
+</br>
 </br>
 </br>
 3. Taxa De Download Muito Alta, (NO MÁXIMO)!
 </br>
 </br>
+</br>
 4. Retoma Arquivos Interrompidos Fragmentados Parcialmente Baixados.
+</br>
 </br>
 </br>
 5. Criação De Sistemas De Arquivos Incorruptível, Usando Apenas Caracteres ASCII e Também Força a Compatibilidade Com o Sistema de Arquivos Do S.O. Windows.
 </br>
 </br>
+</br>
 6. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Ambos.
+</br>
 </br>
 </br>
 7. Escolher o Idioma Da Legenda(.srt) .
 </br>
 </br>
+</br>
 8. Baixa Vídeos Da Melhor Qualidade Disponível.
+</br>
 </br>
 </br>
 9. Excelente Para Os Amantes De Vídeo Aulas Que Podem Baixar Vídeos Sem Perda De Qualidade Priorizando a Economia De Espaço De Armazenamento.
 </br>
 </br>
+</br>
 10. Perfeito Para Baixar Vídeos WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo As Limitações De Requisitos Do Aplicativo.
+</br>
 </br>
 </br>
 11. Portable (Não Precisa Instalar).
 </br>
 </br>
+</br>
 12. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
 </br>
 </br>
+</br>
 13. É Extremamente Leve e Pequeno, Ideal Para Computadores Antigos.
+</br>
 </br>
 </br>
 </br>
@@ -75,7 +91,9 @@ Que Todas As URL Contidas Na Lista Será Baixadas e Armazenadas Organizadamente!
 </br>
 1ª Opção (Melhor) Para Resolver Este Problema Tem Um Arquivo De Registro Que Está Na Pasta Do TurBoy "LongPathsEnabled-Ativado.reg" Execute Em Modo Administrador e Depois Renicie o Windows.
 </br>
+</br>
 2ª Opção é Tentando Colocar o Caminho Dos Seus Downloads o Mais Perto Da Raiz Possível, Para Não Exceder Esses 256 Caracteres Limitados Pelo Windows.
+</br>
 </br>
 Ao Invés De Colocar: C:\BACKUP\CiêNCiaS\VíDeo auLaS\JavaScript\Canal\PlayList\[001][Vídeos-Aulas-De-JaVaScript].ext
 </br>
@@ -83,18 +101,27 @@ Ao Invés De Colocar: C:\BACKUP\CiêNCiaS\VíDeo auLaS\JavaScript\Canal\PlayList
 </br>
 </br>
 </br>
-3. O Sistema De Numeração De Arquivos é Opcional, Use Para URL De Canais e De PlayLists e Deixa Desabilitado Somente Para Vídeos Sozinhos.
+</br>
+2. O Sistema De Numeração De Arquivos é Opcional, Use Para URL De Canais e De PlayLists e Deixa Desabilitado Somente Para Vídeos Sozinhos.
 </br>
 </br>
-2. Se Quiser Baixar Vários Vídeos Sozinhos De Uma Só Vez Poupando Tempo e Trabalho, Cria Primeiro Uma PlayList Pública e Vá Adicionando, Depois é Só Usar a URL Desta PlayList.
 </br>
 </br>
-3. Tenta Baixar Vídeos Para Compartilhar No WhatsApp De No Máximo 3 Minutos Para Poder Garantir a Boa Qualidade.
+3. Se Quiser Baixar Vários Vídeos Sozinhos De Uma Só Vez Poupando Tempo e Trabalho, Cria Primeiro Uma PlayList Pública e Vá Adicionando, Depois é Só Usar a URL Desta PlayList.
 </br>
 </br>
-4. Use Como Player De Vídeo Universal o VLC (Open Source).
+</br>
+</br>
+4. Tenta Baixar Vídeos Para Compartilhar No WhatsApp De No Máximo 3 Minutos Para Poder Garantir a Boa Qualidade.
+</br>
+</br>
+</br>
+</br>
+5. Use Como Player De Vídeo Universal o VLC (Open Source).
+</br>
 </br>
 https://www.videolan.org/vlc/
+</br>
 </br>
 </br>
 </br>
@@ -105,7 +132,9 @@ Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
 </br>
 <b>Repositório Alternativo:</b>
 </br>
+</br>
 <a href="https://drive.google.com/file/d/12BLgtgOA5dEW8e3YWjlPA5nXjOj2ntRp">Download GooGle Drive [TurBoy.7z]</a>
+</br>
 </br>
 </br>
 </br>
@@ -115,6 +144,7 @@ A princípio eu criei este script (.bat) através de uma necessidade minha de co
 </br>
 </br>
 Então eu não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows, achei somente material bem escaço para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
+</br>
 </br>
 </br>
 </br>
