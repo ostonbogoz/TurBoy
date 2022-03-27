@@ -22,6 +22,7 @@ ATENDERÁ A DEMANDA, O USUÁRIO TERÁ LIBERDADE DE ESCOLHER TODAS AS OPÇÕES QU
 </br>
 </br>
 </br>
+</br>
 <h2>[VANTAGENS]</h2>
 1. Baixa PlayLists e Canais Inteiros!
 </br>
@@ -67,16 +68,19 @@ Que Todas As URL Contidas Na Lista Será Baixadas e Armazenadas Organizadamente!
 </br>
 </br>
 </br>
+</br>
 <h2>[DICAS]</h2>
 1. Raramente Donos De Conteúdo Do Youtube Colocam Nomes De Canais, ou De Playlists ou De Vídeos Muito Grande, Escedendo o Limite De Comprimento De Caracteres De Caminho (MAX_PATH) Imposta Pelo Windows De 256 caracteres: Nomes De Arquivos, Caminhos e Espaços.
 </br>
-A 1ª Opção (Melhor) Para Resolver Este Problema Tem Um Arquivo De Registro Que Está Na Pasta Do TurBoy "LongPathsEnabled-Ativado.reg" Execute Em Modo Administrador e Depois Renicie o Windows.
 </br>
-A 2ª Opção é Tentando Colocar o Caminho Dos Seus Downloads o Mais Perto Da Raiz Possível, Para Não Exceder Esses 256 Caracteres Limitados Pelo Windows.
+1ª Opção (Melhor) Para Resolver Este Problema Tem Um Arquivo De Registro Que Está Na Pasta Do TurBoy "LongPathsEnabled-Ativado.reg" Execute Em Modo Administrador e Depois Renicie o Windows.
+</br>
+2ª Opção é Tentando Colocar o Caminho Dos Seus Downloads o Mais Perto Da Raiz Possível, Para Não Exceder Esses 256 Caracteres Limitados Pelo Windows.
 </br>
 Ao Invés: C:\BACKUP\CiêNCiaS\VíDeo auLaS\JavaScript\Canal\PlayList\[001][Vídeos-Aulas-De-JaVaScript]
 </br>
 Melhor: C:\auLaS\JavaScript\Canal\PlayList\[001][Vídeos-Aulas-De-JaVaScript]
+</br>
 </br>
 </br>
 3. O Sistema De Numeração De Arquivos é Opcional, Use Para URL De Canais e De PlayLists e Deixa Desabilitado Somente Para Vídeos Sozinhos.
@@ -94,6 +98,7 @@ https://www.videolan.org/vlc/
 </br>
 </br>
 </br>
+</br>
 <h2>[DOWNLOAD]</h2>
 Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
 </br>
@@ -104,11 +109,13 @@ Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
 </br>
 </br>
 </br>
+</br>
 <h2>[MOTIVO]</h2>
 A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma (pt) no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! O estopin para dar início a este projeto foi que eu queria baixar (80%) das playlists com vídeos e legendas (pt) contidas nesta URL: https://www.youtube.com/c/TheCodingTrain/playlists
 </br>
 </br>
 Então eu não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows, achei somente material bem escaço para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
+</br>
 </br>
 </br>
 </br>
