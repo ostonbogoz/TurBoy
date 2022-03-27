@@ -23,35 +23,35 @@ ATENDERÁ A DEMANDA, O USUÁRIO TERÁ LIBERDADE DE ESCOLHER TODAS AS OPÇÕES QU
 </br>
 </br>
 <h2>[VANTAGENS]</h2>
-1. Baixa PlayLists e Canais Inteiros!
+01. Baixa PlayLists e Canais Inteiros!
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;Com Sistema De Criação De Pastas Organizadas e De Numeração De Arquivos!
 </br>
 </br>
-2. Pode Colocar Vários URL De Canais, De PlayLists e De Vídeos Sozinhos Na Mesma Lista!
+02. Pode Colocar Vários URL De Canais, De PlayLists e De Vídeos Sozinhos Na Mesma Lista!
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;Que Todas As URL Contidas Na Lista Será Baixadas e Armazenadas Organizadamente!
 </br>
 </br>
-3. Taxa De Download Muito Alta, (NO MÁXIMO)!
+03. Taxa De Download Muito Alta, (NO MÁXIMO)!
 </br>
 </br>
-4. Retoma Arquivos Interrompidos Fragmentados Parcialmente Baixados.
+04. Retoma Arquivos Interrompidos Fragmentados Parcialmente Baixados.
 </br>
 </br>
-5. Criação De Sistemas De Arquivos Incorruptível, Usando Apenas Caracteres ASCII e Também Força a Compatibilidade Com o Sistema de Arquivos Do S.O. Windows.
+05. Criação De Sistemas De Arquivos Incorruptível, Usando Apenas Caracteres ASCII e Também Força a Compatibilidade Com o Sistema de Arquivos Do S.O. Windows.
 </br>
 </br>
-6. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Ambos.
+06. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Ambos.
 </br>
 </br>
-7. Escolher o Idioma Da Legenda(.srt) .
+07. Escolher o Idioma Da Legenda(.srt) .
 </br>
 </br>
-8. Baixa Vídeos Da Melhor Qualidade Disponível.
+08. Baixa Vídeos Da Melhor Qualidade Disponível.
 </br>
 </br>
-9. Excelente Para Os Amantes De Vídeo Aulas Que Podem Baixar Vídeos Sem Perda De Qualidade Priorizando a Economia De Espaço De Armazenamento.
+09. Excelente Para Os Amantes De Vídeo Aulas Que Podem Baixar Vídeos Sem Perda De Qualidade Priorizando a Economia De Espaço De Armazenamento.
 </br>
 </br>
 10. Perfeito Para Baixar Vídeos WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo As Limitações De Requisitos Do Aplicativo.
