@@ -70,7 +70,7 @@ ATENDERÁ A DEMANDA, O USUÁRIO TERÁ LIBERDADE DE ESCOLHER TODAS AS OPÇÕES QU
 <h2>[DICAS]</h2>
 1. Raramente Donos De Conteúdo Do Youtube Colocam Nomes De Canais, ou De Playlists ou De Vídeos Muito Grande, Escedendo o Limite De Comprimento De Caracteres De Caminho (MAX_PATH) Imposta Pelo Windows De 256 Caracteres: Nomes De Arquivos, Caminhos e Espaços.
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;1ª Opção (Melhor) Para Resolver Este Problema Tem Um Arquivo De Registro Que Está Na Pasta Do TurBoy "LongPathsEnabled-Ativado.reg" Execute Em Modo Administrador e Depois Renicie o Windows.
+&nbsp;&nbsp;&nbsp;&nbsp;1ª Opção (É a Melhor) Para Resolver Este Problema Tem Um Arquivo De Registro Que Está Na Pasta Do TurBoy "LongPathsEnabled-Ativado.reg" Execute Em Modo Administrador e Depois Renicie o Windows.
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;2ª Opção é Tentando Colocar o Caminho Dos Seus Downloads o Mais Perto Da Raiz Possível, Para Não Exceder Esses 256 Caracteres Limitados Pelo Windows.
 </br>
