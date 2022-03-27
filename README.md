@@ -68,7 +68,16 @@ Que Todas As URL Contidas Na Lista Será Baixadas e Armazenadas Organizadamente!
 </br>
 </br>
 <h2>[DICAS]</h2>
-1. O Sistema De Numeração De Arquivos é Opcional, Use Para URL De Canais e De PlayLists e Deixa Desabilitado Somente Para Vídeos Sozinhos.
+1. Por Padrão, o Windows Usa Uma Limitação De Comprimento De Caminho (MAX_PATH) De 256 caracteres: Nomes De Arquivos, Caminhos e Espaços.
+</br>
+Tente Colocar o Caminho Dos Seus Downloads o Mais Perto Da Raiz Possível, Para Não Exceder Esses 256 Caracteres Limitados Pelo Windows.
+</br>
+Ao Invés: C:\BACKUP\CiêNCiaS\VíDeo auLaS\JavaScript\Canal\PlayList\[001][Vídeos-Aulas-De-JaVaScript]
+</br>
+Melhor: C:\auLaS\JavaScript\Canal\PlayList\[001][Vídeos-Aulas-De-JaVaScript]
+</br>
+</br>
+3. O Sistema De Numeração De Arquivos é Opcional, Use Para URL De Canais e De PlayLists e Deixa Desabilitado Somente Para Vídeos Sozinhos.
 </br>
 </br>
 2. Se Quiser Baixar Vários Vídeos Sozinhos De Uma Só Vez Poupando Tempo e Trabalho, Cria Primeiro Uma PlayList Pública e Vá Adicionando, Depois é Só Usar a URL Desta PlayList.
