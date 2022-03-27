@@ -15,7 +15,7 @@ https://github.com/yt-dlp/yt-dlp
 https://github.com/sudo-nautilus/FFmpeg-Builds-Win32
 </br>
 </br>
-Gerenciador De Download Do Youtube, que foi acrescentado todas as OPÇÕES que eu SENTI FALTA e também de OPÇÕES BUGADAS dos melhores gerenciadores de download do youtube do MERCADO.
+&nbsp;&nbsp;&nbsp;&nbsp;Gerenciador De Download Do Youtube, que foi acrescentado todas as OPÇÕES que eu SENTI FALTA e também de OPÇÕES BUGADAS dos melhores gerenciadores de download do youtube do MERCADO.
 </br>
 </br>
 ATENDERÁ A DEMANDA, O USUÁRIO TERÁ LIBERDADE DE ESCOLHER TODAS AS OPÇÕES QUE LHE SATISFAÇA.
@@ -105,18 +105,18 @@ Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
 </br>
 </br>
 <h2>[MOTIVO]</h2>
-A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma (pt) no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! O estopin para dar início a este projeto foi que eu queria baixar (80%) das playlists com vídeos e legendas (pt) contidas nesta URL: https://www.youtube.com/c/TheCodingTrain/playlists
+&nbsp;&nbsp;&nbsp;&nbsp;A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma (pt) no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! O estopin para dar início a este projeto foi que eu queria baixar (80%) das playlists com vídeos e legendas (pt) contidas nesta URL: https://www.youtube.com/c/TheCodingTrain/playlists
 </br>
 </br>
-Então eu não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows, achei somente material bem escaço para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
+&nbsp;&nbsp;&nbsp;&nbsp;Então eu não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows, achei somente material bem escaço para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
 </br>
 </br>
 </br>
 <h2>[EXPERIÊNCIA]</h2>
-De início me custou poucas horas de puro prazer "codando", com desafios e buscando soluções em fóruns, eu só sabia praticamente míseros 1% do script (.bat), depois me empolguei com o projeto e decidi incluir baixar vídeos, adcionar menus, customizações, aprimoramentos e muitos testes, que transformou em 2 dias de um prazeroso aprendizado.
+&nbsp;&nbsp;&nbsp;&nbsp;De início me custou poucas horas de puro prazer "codando", com desafios e buscando soluções em fóruns, eu só sabia praticamente míseros 1% do script (.bat), depois me empolguei com o projeto e decidi incluir baixar vídeos, adcionar menus, customizações, aprimoramentos e muitos testes, que transformou em 2 dias de um prazeroso aprendizado.
 </br>
 </br>
-Consegui quebrar limitações do script (.bat), como a criação e aprimoramento do sistema de estruturas de decisão com simulação como estive-se usando junto com os operadores lógicos (AND) e (OR).
+&nbsp;&nbsp;&nbsp;&nbsp;Consegui quebrar limitações do script (.bat), como a criação e aprimoramento do sistema de estruturas de decisão com simulação como estive-se usando junto com os operadores lógicos (AND) e (OR).
 </br>
 </br>
-Acredito que a comunidade encontrará neste material rico, inovador e simples do script (.bat) do que precisa, é um projeto totalmente Open Source.
+&nbsp;&nbsp;&nbsp;&nbsp;Acredito que a comunidade encontrará neste material rico, inovador e simples do script (.bat) do que precisa, é um projeto totalmente Open Source.
