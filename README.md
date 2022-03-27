@@ -68,7 +68,7 @@ ATENDERÁ A DEMANDA, O USUÁRIO TERÁ LIBERDADE DE ESCOLHER TODAS AS OPÇÕES QU
 </br>
 </br>
 <h2>[DICAS]</h2>
-1. As Vezes Donos De Conteúdo Do Youtube Colocam Nomes De Canais, ou De Playlists ou De Vídeos Muito Grande, o Problema é Que Quando Fazer os Downloads Em Massa é Provável Que De (ERROR) Silenciosamente, Por Que Escedeu o Limite De Comprimento De Caracteres De Caminho (MAX_PATH) Imposta Pelo Windows De 256 Caracteres: Nomes De Arquivos, Caminhos e Espaços. Em Consequência o TurBoy Não Armazenará o Arquivo. Para Resolver Essa Limitação, Segue-Se Abaixo As Seguintes Opções.
+1. As Vezes Donos De Conteúdo Do Youtube Colocam Nomes De Canais, ou De Playlists ou De Vídeos Muito Grande, o Problema é Que Quando Fazer os Downloads Em Massa é Provável Que De Aviso De (ERROR) Sem Que Você Perceba, Por Que Escedeu o Limite De Comprimento De Caracteres De Caminho (MAX_PATH) Imposta Pelo Windows De 256 Caracteres: Nomes De Arquivos, Caminhos e Espaços. Em Consequência o TurBoy Dará Somente Um Alerta De (ERROR) Porém Não Armazenará o Arquivo. Para Resolver Essa Limitação, Segue-Se Abaixo As Seguintes Opções.
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;1ª Opção (É a Melhor) Para Resolver Este Problema Tem Um Arquivo De Registro Que Está Na Pasta Do TurBoy "LongPathsEnabled-Ativado.reg" Execute Em Modo Administrador e Depois Renicie o Windows.
 </br>
