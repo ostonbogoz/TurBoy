@@ -25,12 +25,12 @@ ATENDERÁ A DEMANDA, O USUÁRIO TERÁ LIBERDADE DE ESCOLHER TODAS AS OPÇÕES QU
 <h2>[VANTAGENS]</h2>
 01. Baixa PlayLists e Canais Inteiros!
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;Com Sistema De Criação De Pastas Organizadas e De Numeração De Arquivos!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Com Sistema De Criação De Pastas Organizadas e De Numeração De Arquivos!
 </br>
 </br>
 02. Pode Colocar Vários URL De Canais, De PlayLists e De Vídeos Sozinhos Na Mesma Lista!
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;Que Todas As URL Contidas Na Lista Será Baixadas e Armazenadas Organizadamente!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Que Todas As URL Contidas Na Lista Será Baixadas e Armazenadas Organizadamente!
 </br>
 </br>
 03. Taxa De Download Muito Alta, (NO MÁXIMO)!
