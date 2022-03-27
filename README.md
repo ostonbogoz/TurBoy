@@ -77,9 +77,9 @@ Que Todas As URL Contidas Na Lista Será Baixadas e Armazenadas Organizadamente!
 </br>
 2ª Opção é Tentando Colocar o Caminho Dos Seus Downloads o Mais Perto Da Raiz Possível, Para Não Exceder Esses 256 Caracteres Limitados Pelo Windows.
 </br>
-Ao Invés: C:\BACKUP\CiêNCiaS\VíDeo auLaS\JavaScript\Canal\PlayList\[001][Vídeos-Aulas-De-JaVaScript]
+Ao Invés: C:\BACKUP\CiêNCiaS\VíDeo auLaS\JavaScript\Canal\PlayList\[001][Vídeos-Aulas-De-JaVaScript].ext
 </br>
-Melhor: C:\auLaS\JavaScript\Canal\PlayList\[001][Vídeos-Aulas-De-JaVaScript]
+Melhor: C:\auLaS\JavaScript\Canal\PlayList\[001][Vídeos-Aulas-De-JaVaScript].ext
 </br>
 </br>
 </br>
