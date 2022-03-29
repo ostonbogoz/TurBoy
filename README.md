@@ -1,5 +1,5 @@
 # 😎👉👉💥 [TurBoy] Baixar Vídeos Do YouTube No PC Grátis
-<h1>Baixe Vídeos e Legendas(.srt) Do Seu Idioma e Também De PlayLists e De Canais Inteiros Do YouTube</h1>
+<h1>Baixe Vídeos e Legendas(.srt) Com Seu Idioma e Também De PlayLists e De Canais Inteiros Do YouTube</h1>
 <img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy00.png">
 <h2>[O QUE É]</h2>
 É um Fork Desenvolvido Em Script Batch Windows (.bat) Dos Aplicativos:
