@@ -42,28 +42,31 @@ ATENDERÁ A DEMANDA, O USUÁRIO TERÁ LIBERDADE DE ESCOLHER TODAS AS OPÇÕES QU
 05. Criação De Sistemas De Arquivos Incorruptível, Usando Apenas Caracteres ASCII e Também Força a Compatibilidade Com o Sistema de Arquivos Do S.O. Windows.
 </br>
 </br>
-06. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Ambos.
+06. MENU Completo, Fácil, Simples e Interativo Te Dando Uma Total Liberdade Para Fazer Todas As Opções Possíveis...
 </br>
 </br>
-07. Escolher o Idioma Da Legenda(.srt) .
+07. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Ambos.
 </br>
 </br>
-08. Baixa Vídeos Da Melhor Qualidade Disponível.
+08. Escolher o Idioma Da Legenda(.srt) .
 </br>
 </br>
-09. Excelente Para Os Amantes De Vídeo Aulas Que Podem Baixar Vídeos Sem Perda De Qualidade Priorizando a Economia De Espaço De Armazenamento.
+09. Baixa Vídeos Da Melhor Qualidade Disponível.
 </br>
 </br>
-10. Perfeito Para Baixar Vídeos WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo As Limitações De Requisitos Do Aplicativo.
+10. Excelente Para Os Amantes De Vídeo Aulas Que Podem Baixar Vídeos Sem Perda De Qualidade Priorizando a Economia De Espaço De Armazenamento.
 </br>
 </br>
-11. Portable (Não Precisa Instalar).
+11. Perfeito Para Baixar Vídeos WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo As Limitações De Requisitos Do Aplicativo.
 </br>
 </br>
-12. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
+12. Portable (Não Precisa Instalar).
 </br>
 </br>
-13. É Extremamente Leve e Pequeno, Ideal Para Computadores Antigos.
+13. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
+</br>
+</br>
+14. É Extremamente Leve e Pequeno, Ideal Para Computadores Antigos.
 </br>
 </br>
 </br>
