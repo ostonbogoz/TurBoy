@@ -42,7 +42,7 @@ ATENDERÁ A DEMANDA, O USUÁRIO TERÁ LIBERDADE DE ESCOLHER TODAS AS OPÇÕES QU
 05. Criação De Sistemas De Arquivos Incorruptível, Usando Apenas Caracteres ASCII e Também Força a Compatibilidade Com o Sistema de Arquivos Do S.O. Windows.
 </br>
 </br>
-06. MENU Completo, Fácil, Simples e Interativo. Te Dando Uma Total Liberdade Para Fazer Todas As Opções Possíveis...
+06. MENU Completo, Fácil, Simples e Interativo, Te Dando Uma Total Liberdade Para Fazer Todas As Opções Possíveis...
 </br>
 </br>
 07. Tem As Opções De Baixar Somente Vídeos Ou Somente Legendas(.srt) Ou Ambos.
