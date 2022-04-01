@@ -60,13 +60,16 @@ ATENDERÁ A DEMANDA, O USUÁRIO TERÁ LIBERDADE DE ESCOLHER TODAS AS OPÇÕES QU
 11. Perfeito Para Baixar Vídeos WhatsApp Buscando Sempre a Melhor Qualidade Possível Atendendo As Limitações De Requisitos Do Aplicativo.
 </br>
 </br>
-12. Portable (Não Precisa Instalar).
+12. Atualiza Vídeos Novos De PlayLists e De Canais Inteiros.
 </br>
 </br>
-13. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
+13. Portable (Não Precisa Instalar).
 </br>
 </br>
-14. É Extremamente Leve e Pequeno, Ideal Para Computadores Antigos.
+14. Compatível Com Todos Os S.O. Windows 32Bits/64Bits.
+</br>
+</br>
+15. É Extremamente Leve e Pequeno, Ideal Para Computadores Antigos.
 </br>
 </br>
 </br>
