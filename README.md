@@ -79,7 +79,7 @@ Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
 </br>
 </br>
 </br>
-<h2>[DICAS E EVITAR EVENTUAIS ERROS]</h2>
+<h2>[DICAS | EVITAR EVENTUAIS ERROS]</h2>
 1. As Vezes Donos De Conteúdo Do Youtube Colocam Nomes De Canais, ou De Playlists ou De Vídeos Muito Grande, o Problema é Que Quando Fazer os Downloads Em Massa é Provável Que De Aviso De <b>(ERROR)</b> Sem Que Você Perceba, Por Que Excedeu o Limite De Comprimento De Caracteres De Caminho <b>(MAX_PATH)</b> Imposta Pelo Windows De 256 Caracteres: Nomes De Arquivos, Caminhos e Espaços. Em Consequência o TurBoy Dará Somente Um Alerta De (ERROR) Porém Não Armazenará o Arquivo. Para Resolver Essa Limitação, Segue-Se Abaixo As Seguintes Opções.
 </br>
 </br>
