@@ -1,5 +1,5 @@
-# TurBoy BaiXaR VíDeoS, MúSiCaS [MP3] e LeGeNDaS [SRT] eM Seu iDioMa
-<h1>De PLayLiSTS e De CaNaiS iNTeiRoS Do youTuBe. SiSTeMa De PaSTaS oRGaNiZaDaS e NuMeRaDaS. [MENU] CoMPLeTo, FáCiL, SiPLeS e iNTeRaTiVo</h1>
+# TurBoy | BaiXaR VíDeoS, MúSiCaS [MP3] e LeGeNDaS [SRT] eM Seu iDioMa
+<h2>De PLayLiSTS e De CaNaiS iNTeiRoS Do youTuBe. SiSTeMa De PaSTaS oRGaNiZaDaS e NuMeRaDaS. [MENU] CoMPLeTo, FáCiL, SiPLeS e iNTeRaTiVo</h2>
 <img src="https://github.com/ostonprata/TurBoy/blob/main/TurBoy.png">
 <h2>[DOWNLOAD]</h2>
 Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
