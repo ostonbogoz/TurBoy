@@ -130,4 +130,4 @@ Consegui quebrar limitações do script (.bat), como a criação e aprimoramento
 Acredito que a comunidade encontrará neste material rico, inovador e simples do script (.bat) do que precisa, é um projeto totalmente Open Source.
 </br>
 </br>
-<a href="https://github.com/ostonprata/TurBoy"><b>https://github.com/ostonprata/TurBoy</b></a>
+<a href="https://github.com/ostonprata/TurBoc"><b>https://github.com/ostonprata/TurBoc</b></a>
