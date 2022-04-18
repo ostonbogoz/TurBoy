@@ -7,7 +7,7 @@ Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
 </br>
 <b>Repositório Alternativo:</b>
 </br>
-<a href="https://drive.google.com/file/d/12BLgtgOA5dEW8e3YWjlPA5nXjOj2ntRp"><b>Download GooGle Drive [TurBoy.7z]</b></a>
+<a href="https://drive.google.com/file/d/12BLgtgOA5dEW8e3YWjlPA5nXjOj2ntRp" target="_blank"><b>Download GooGle Drive [TurBoy.7z]</b></a>
 </br>
 </br>
 </br>
@@ -17,12 +17,12 @@ Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
 </br>
 1. yT-DLP.eXe (Acessar, Escolher e Baixar Os Conteúdos Através Das URL Do YouTube).
 </br>
-<b>https://github.com/yt-dlp/yt-dlp</b>
+<a href="https://github.com/yt-dlp/yt-dlp" target="_blank"><b>https://github.com/yt-dlp/yt-dlp</b></a>
 </br>
 </br>
 2. FFMPeG.eXe (Converte As Legendas .ytt Para .srt ).
 </br>
-<b>https://github.com/sudo-nautilus/FFmpeg-Builds-Win32</b>
+<a href="https://github.com/sudo-nautilus/FFmpeg-Builds-Win32" target="_blank"><b>https://github.com/sudo-nautilus/FFmpeg-Builds-Win32</b></a>
 </br>
 </br>
 <b>Gerenciador De Download Do Youtube Mais Completo Existente</b>, foi acrescentado todas as <b>opções</b> que eu <b>senti falta</b> e também de <b>opções bugadas</b> dos outros tidos: <b>"Como os melhores gerenciadores de download do YouTube do mercado."</b>
@@ -108,12 +108,12 @@ Ao Invés De Colocar: C:\BACKUP\CiêNCiaS\VíDeo auLaS\JavaScript\Canal\PlayList
 </br>
 6. Use Como Player De Vídeo Universal o VLC (Open Source).
 </br>
-<b>https://www.videolan.org/vlc/</b>
+<a href="https://www.videolan.org/vlc/" target="_blank"><b>https://www.videolan.org/vlc/</b></a>
 </br>
 </br>
 </br>
 <h2>[MOTIVO]</h2>
-A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma (pt) no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! O estopin para dar início a este projeto foi que eu queria baixar (80%) das playlists com vídeos e legendas (pt) contidas nesta URL: <b>https://www.youtube.com/c/TheCodingTrain/playlists</b>
+A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma (pt) no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! O estopin para dar início a este projeto foi que eu queria baixar (80%) das playlists com vídeos e legendas (pt) contidas nesta URL: <a href="https://www.youtube.com/c/TheCodingTrain/playlists" target="_blank"><b>https://www.youtube.com/c/TheCodingTrain/playlists</b></a>
 </br>
 </br>
 Então eu <b>não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows</b>, achei somente material bem escaço para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
@@ -130,4 +130,4 @@ Consegui quebrar limitações do script (.bat), como a criação e aprimoramento
 Acredito que a comunidade encontrará neste material rico, inovador e simples do script (.bat) do que precisa, é um projeto totalmente Open Source.
 </br>
 </br>
-<a href="https://github.com/ostonprata/TurBoc"><b>https://github.com/ostonprata/TurBoc</b></a>
+<a href="https://github.com/ostonprata/TurBoc" target="_blank"><b>https://github.com/ostonprata/TurBoy</b></a>
