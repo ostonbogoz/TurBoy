@@ -83,7 +83,7 @@ Repositório GitHub só oferece 25MB por projeto, o TurBoy.7z tem 27.3MB.
 1. As Vezes Donos De Conteúdo Do Youtube Colocam Nomes De Canais, ou De Playlists ou De Vídeos Muito Grande, o Problema é Que Quando Fazer os Downloads Em Massa é Provável Que De Aviso De <b>(ERROR)</b> Sem Que Você Perceba, Por Que Excedeu o Limite De Comprimento De Caracteres De Caminho <b>(MAX_PATH)</b> Imposta Pelo Windows De 256 Caracteres: Nomes De Arquivos, Caminhos e Espaços. Em Consequência o TurBoy Dará Somente Um Alerta De (ERROR) Porém Não Armazenará o Arquivo. Para Resolver Essa Limitação, Segue-Se Abaixo As Seguintes Opções.
 </br>
 </br>
-<b>1ª Opção: (Melhor)</b> Para Resolver Este Problema Tem Um Arquivo De Registro <b>"LongPathsEnabled-Ativado.reg"</b> Que Vai Junto Com TurBoy, Que Está Dentro Da Pasta <b>[utilitarios]</b>, Execute Em <b>Modo Administrador</b> e Depois <b>Renicie o Windows</b>.
+<b>1ª Opção: (Melhor)</b> Para Resolver Este Problema Tem Um Arquivo De Registro <b>"LongPathsEnabled-Ativado.reg"</b> Que Vai Junto Com TurBoy, Que Está Dentro Da Pasta <b>[utilitários]</b>, Execute Em <b>Modo Administrador</b> e Depois <b>Renicie o Windows</b>.
 </br>
 </br>
 2ª Opção: É Ficar Tentando Colocar o Caminho Dos Seus Downloads o Mais Perto Da Raiz Possível, Para Não Exceder Esses 256 Caracteres Limitados Pelo Windows.
@@ -113,10 +113,10 @@ Ao Invés De Colocar: C:\BACKUP\CiêNCiaS\VíDeo auLaS\JavaScript\Canal\PlayList
 </br>
 </br>
 <h2>[MOTIVO]</h2>
-A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas video aulas estrangeiras com legendas no meu idioma (pt) no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! O estopin para dar início a este projeto foi que eu queria baixar (80%) das playlists com vídeos e legendas (pt) contidas nesta URL: <a href="https://www.youtube.com/c/TheCodingTrain/playlists" target="_blank"><b>https://www.youtube.com/c/TheCodingTrain/playlists</b></a>
+A princípio eu criei este script (.bat) através de uma necessidade minha de consumir muitas vídeo aulas estrangeiras com legendas no meu idioma (pt) no YouTube e como a vida me ensinou a ser precavido eu prefiro fazer backup antes de todos os cursos que eu vá estudar e isso vai desde à playlists à canais inteiros! O estopim para dar início a este projeto foi que eu queria baixar (80%) das playlists com vídeos e legendas (pt) contidas nesta URL: <a href="https://www.youtube.com/c/TheCodingTrain/playlists" target="_blank"><b>https://www.youtube.com/c/TheCodingTrain/playlists</b></a>
 </br>
 </br>
-Então eu <b>não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows</b>, achei somente material bem escaço para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
+Então eu <b>não achei nada parecido que automatiza-se isso para mim na internet para o S.O. Windows</b>, achei somente material bem escasso para LiNuX, que é baixar legendas (.srt) no meu idioma (pt) em lotes, através de URL de canais, playlists e até de um único vídeo do YouTube.
 </br>
 </br>
 </br>
